@@ -108,6 +108,7 @@
 [/ml.cdn-apple.com/]223.5.5.5
 [/music.apple.com/]223.5.5.5
 [/ocsp-lb.apple.com.akadns.net/]223.5.5.5
+[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5
 [/ocsp.apple.com/]223.5.5.5
 [/ocsp2.apple.com/]223.5.5.5
 [/oscdn.apple.com/]223.5.5.5
