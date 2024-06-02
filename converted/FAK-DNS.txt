@@ -4776,6 +4776,7 @@
 [/52372.com/]https://223.5.5.5/dns-query
 [/523touzi.com/]https://223.5.5.5/dns-query
 [/52419.net/]https://223.5.5.5/dns-query
+[/524399game.com/]https://223.5.5.5/dns-query
 [/52488.com/]https://223.5.5.5/dns-query
 [/525.life/]https://223.5.5.5/dns-query
 [/5251.net/]https://223.5.5.5/dns-query
@@ -16765,6 +16766,7 @@
 [/cloud-links.net/]https://223.5.5.5/dns-query
 [/cloud-neofussvr.sslcs.cdngc.net/]https://223.5.5.5/dns-query
 [/cloud-rtc.com/]https://223.5.5.5/dns-query
+[/cloud-rtc.net/]https://223.5.5.5/dns-query
 [/cloud-scdn-ns.net/]https://223.5.5.5/dns-query
 [/cloud-scdn-ns.tech/]https://223.5.5.5/dns-query
 [/cloud-scdn.com/]https://223.5.5.5/dns-query
@@ -28819,7 +28821,6 @@
 [/haoyouyinxiang.com/]https://223.5.5.5/dns-query
 [/haoyuanfurniture.com/]https://223.5.5.5/dns-query
 [/haoyuanxiao.com/]https://223.5.5.5/dns-query
-[/haoyue.asia/]https://223.5.5.5/dns-query
 [/haoyue28.com/]https://223.5.5.5/dns-query
 [/haoyuepu.com/]https://223.5.5.5/dns-query
 [/haoyun13.com/]https://223.5.5.5/dns-query
@@ -42165,6 +42166,7 @@
 [/magicdata.io/]https://223.5.5.5/dns-query
 [/magich5page.com/]https://223.5.5.5/dns-query
 [/magicleaders.com/]https://223.5.5.5/dns-query
+[/magicneko.com/]https://223.5.5.5/dns-query
 [/magicnetmall.com/]https://223.5.5.5/dns-query
 [/magicspinning.com/]https://223.5.5.5/dns-query
 [/magicwatchface.com/]https://223.5.5.5/dns-query
@@ -68843,7 +68845,6 @@
 [/ym01.tech/]https://223.5.5.5/dns-query
 [/ym1998.com/]https://223.5.5.5/dns-query
 [/ym23.com/]https://223.5.5.5/dns-query
-[/ym68.cc/]https://223.5.5.5/dns-query
 [/ymadly.com/]https://223.5.5.5/dns-query
 [/ymadx.com/]https://223.5.5.5/dns-query
 [/ymailcampaign.com/]https://223.5.5.5/dns-query
