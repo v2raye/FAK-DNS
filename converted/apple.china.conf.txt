@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]https://223.5.5.5/dns-query
 [/configuration.apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/configuration.apple.com/]https://223.5.5.5/dns-query
+[/crl.apple.com/]https://223.5.5.5/dns-query
 [/cstat.apple.com/]https://223.5.5.5/dns-query
 [/cstat.cdn-apple.com/]https://223.5.5.5/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
