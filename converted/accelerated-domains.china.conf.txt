@@ -39267,6 +39267,7 @@
 [/ibmhz.com/]https://223.5.5.5/dns-query
 [/ibmwclub.com/]https://223.5.5.5/dns-query
 [/ibodao.com/]https://223.5.5.5/dns-query
+[/iboohee.com/]https://223.5.5.5/dns-query
 [/ibook8.com/]https://223.5.5.5/dns-query
 [/ibooker.cc/]https://223.5.5.5/dns-query
 [/ibookstar.com/]https://223.5.5.5/dns-query
@@ -41353,6 +41354,7 @@
 [/ivywing.me/]https://223.5.5.5/dns-query
 [/iwala.net/]https://223.5.5.5/dns-query
 [/iwan4399.com/]https://223.5.5.5/dns-query
+[/iwan78.com/]https://223.5.5.5/dns-query
 [/iwanbei.com/]https://223.5.5.5/dns-query
 [/iwanboy.com/]https://223.5.5.5/dns-query
 [/iwangding.com/]https://223.5.5.5/dns-query
@@ -49888,6 +49890,7 @@
 [/luoqiu.com/]https://223.5.5.5/dns-query
 [/luoqiuzw.com/]https://223.5.5.5/dns-query
 [/luoshendao.com/]https://223.5.5.5/dns-query
+[/luoshu.com/]https://223.5.5.5/dns-query
 [/luoshuanchangjia.com/]https://223.5.5.5/dns-query
 [/luosi.com/]https://223.5.5.5/dns-query
 [/luosifen888.com/]https://223.5.5.5/dns-query
@@ -83033,6 +83036,7 @@
 [/yqwyx.xyz/]https://223.5.5.5/dns-query
 [/yqxiuyoung.com/]https://223.5.5.5/dns-query
 [/yqxs.cc/]https://223.5.5.5/dns-query
+[/yqxsg.cc/]https://223.5.5.5/dns-query
 [/yqxsge.cc/]https://223.5.5.5/dns-query
 [/yqxxjy.com/]https://223.5.5.5/dns-query
 [/yqy021.com/]https://223.5.5.5/dns-query
