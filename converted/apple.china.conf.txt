@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]https://223.5.5.5/dns-query
 [/adcdownload.apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/adcdownload.apple.com/]https://223.5.5.5/dns-query
-[/amp-api.media.apple.com/]https://223.5.5.5/dns-query
 [/amp-api-updates.apps.apple.com/]https://223.5.5.5/dns-query
+[/amp-api.media.apple.com/]https://223.5.5.5/dns-query
 [/api-p-ap-c.smoot.apple.com/]https://223.5.5.5/dns-query
 [/api-p-ap-d.smoot.apple.com/]https://223.5.5.5/dns-query
 [/api-p-ap-e.smoot.apple.com/]https://223.5.5.5/dns-query
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://223.5.5.5/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/dejavu.apple.com/]https://223.5.5.5/dns-query
+[/devstreaming-cdn.apple.com/]https://223.5.5.5/dns-query
 [/download.developer.apple.com/]https://223.5.5.5/dns-query
 [/experiments.apple.com/]https://223.5.5.5/dns-query
 [/gs-loc-cn.apple.com/]https://223.5.5.5/dns-query
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]https://223.5.5.5/dns-query
 [/gsp5-cn.ls.apple.com/]https://223.5.5.5/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query
+[/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
 [/gspe19-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
 [/gspe19-cn.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/gspe19-cn.ls.apple.com/]https://223.5.5.5/dns-query
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]https://223.5.5.5/dns-query
 [/iphone-ld.apple.com/]https://223.5.5.5/dns-query
 [/iphone-ld.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/is1-ssl.mzstatic.com/]https://223.5.5.5/dns-query
 [/is1.mzstatic.com/]https://223.5.5.5/dns-query
 [/is2-ssl.mzstatic.com/]https://223.5.5.5/dns-query
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]https://223.5.5.5/dns-query
 [/is5-ssl.mzstatic.com/]https://223.5.5.5/dns-query
 [/is5.mzstatic.com/]https://223.5.5.5/dns-query
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/itunes.apple.com/]https://223.5.5.5/dns-query
 [/itunesconnect.apple.com/]https://223.5.5.5/dns-query
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]https://223.5.5.5/dns-query
 [/music.apple.com/]https://223.5.5.5/dns-query
 [/ocsp-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/ocsp.apple.com/]https://223.5.5.5/dns-query
+[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/ocsp2.apple.com/]https://223.5.5.5/dns-query
 [/oscdn.apple.com/]https://223.5.5.5/dns-query
 [/oscdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
