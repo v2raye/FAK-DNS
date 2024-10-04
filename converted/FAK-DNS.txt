@@ -300,6 +300,7 @@
 [/0357hz.com/]https://223.5.5.5/dns-query
 [/0368.com/]https://223.5.5.5/dns-query
 [/036yx.com/]https://223.5.5.5/dns-query
+[/0371jixie.com/]https://223.5.5.5/dns-query
 [/0371wang.com/]https://223.5.5.5/dns-query
 [/037201.com/]https://223.5.5.5/dns-query
 [/037398.com/]https://223.5.5.5/dns-query
@@ -1314,6 +1315,7 @@
 [/13800.net/]https://223.5.5.5/dns-query
 [/13800100.co/]https://223.5.5.5/dns-query
 [/13800100.com/]https://223.5.5.5/dns-query
+[/138379.com/]https://223.5.5.5/dns-query
 [/138gzs.com/]https://223.5.5.5/dns-query
 [/138top.com/]https://223.5.5.5/dns-query
 [/138txt.com/]https://223.5.5.5/dns-query
@@ -1946,6 +1948,7 @@
 [/198526.com/]https://223.5.5.5/dns-query
 [/1985cd.com/]https://223.5.5.5/dns-query
 [/1985t.com/]https://223.5.5.5/dns-query
+[/1987619.com/]https://223.5.5.5/dns-query
 [/1987cn.com/]https://223.5.5.5/dns-query
 [/1987yp.com/]https://223.5.5.5/dns-query
 [/1988.tv/]https://223.5.5.5/dns-query
@@ -2251,6 +2254,7 @@
 [/21ccnn.com/]https://223.5.5.5/dns-query
 [/21cd.com/]https://223.5.5.5/dns-query
 [/21ce.cc/]https://223.5.5.5/dns-query
+[/21cloudbox.com/]https://223.5.5.5/dns-query
 [/21cn.com/]https://223.5.5.5/dns-query
 [/21cn.net/]https://223.5.5.5/dns-query
 [/21cnev.com/]https://223.5.5.5/dns-query
@@ -2626,6 +2630,7 @@
 [/28tui.com/]https://223.5.5.5/dns-query
 [/28yj.com/]https://223.5.5.5/dns-query
 [/28zhe.com/]https://223.5.5.5/dns-query
+[/2903866.net/]https://223.5.5.5/dns-query
 [/2905.com/]https://223.5.5.5/dns-query
 [/2918.com/]https://223.5.5.5/dns-query
 [/2925.com/]https://223.5.5.5/dns-query
@@ -3024,6 +3029,7 @@
 [/33yqxs.net/]https://223.5.5.5/dns-query
 [/34.com/]https://223.5.5.5/dns-query
 [/34347.com/]https://223.5.5.5/dns-query
+[/3456-1.vip/]https://223.5.5.5/dns-query
 [/3456.com/]https://223.5.5.5/dns-query
 [/3456.tv/]https://223.5.5.5/dns-query
 [/345673.xyz/]https://223.5.5.5/dns-query
@@ -3238,6 +3244,7 @@
 [/363635.com/]https://223.5.5.5/dns-query
 [/363u.com/]https://223.5.5.5/dns-query
 [/364000.com/]https://223.5.5.5/dns-query
+[/365.com/]https://223.5.5.5/dns-query
 [/365128.com/]https://223.5.5.5/dns-query
 [/365135.com/]https://223.5.5.5/dns-query
 [/36524hua.com/]https://223.5.5.5/dns-query
@@ -3547,7 +3554,6 @@
 [/3dwwwgame.com/]https://223.5.5.5/dns-query
 [/3dxt.com/]https://223.5.5.5/dns-query
 [/3dxuan.com/]https://223.5.5.5/dns-query
-[/3dxy.com/]https://223.5.5.5/dns-query
 [/3dxy.net/]https://223.5.5.5/dns-query
 [/3dzyw.com/]https://223.5.5.5/dns-query
 [/3e.net/]https://223.5.5.5/dns-query
@@ -3678,6 +3684,7 @@
 [/4-xiang.com/]https://223.5.5.5/dns-query
 [/4.biz/]https://223.5.5.5/dns-query
 [/4.cm/]https://223.5.5.5/dns-query
+[/4.plus/]https://223.5.5.5/dns-query
 [/400-lighting.com/]https://223.5.5.5/dns-query
 [/400.com/]https://223.5.5.5/dns-query
 [/4000011520.com/]https://223.5.5.5/dns-query
@@ -3752,7 +3759,6 @@
 [/40407.com/]https://223.5.5.5/dns-query
 [/404600.com/]https://223.5.5.5/dns-query
 [/404886.com/]https://223.5.5.5/dns-query
-[/404forest.com/]https://223.5.5.5/dns-query
 [/404mzk.com/]https://223.5.5.5/dns-query
 [/404wan.com/]https://223.5.5.5/dns-query
 [/404youxi.com/]https://223.5.5.5/dns-query
@@ -3891,6 +3897,7 @@
 [/477zw.com/]https://223.5.5.5/dns-query
 [/47819.com/]https://223.5.5.5/dns-query
 [/47gs.com/]https://223.5.5.5/dns-query
+[/47rq.com/]https://223.5.5.5/dns-query
 [/47test.com/]https://223.5.5.5/dns-query
 [/47zu.com/]https://223.5.5.5/dns-query
 [/48.com/]https://223.5.5.5/dns-query
@@ -5321,6 +5328,7 @@
 [/58food.com/]https://223.5.5.5/dns-query
 [/58game.com/]https://223.5.5.5/dns-query
 [/58ganji.com/]https://223.5.5.5/dns-query
+[/58ghost.com/]https://223.5.5.5/dns-query
 [/58hexiang.com/]https://223.5.5.5/dns-query
 [/58ib.com/]https://223.5.5.5/dns-query
 [/58insure.com/]https://223.5.5.5/dns-query
@@ -5339,6 +5347,7 @@
 [/58moto.com/]https://223.5.5.5/dns-query
 [/58net.com/]https://223.5.5.5/dns-query
 [/58pic.com/]https://223.5.5.5/dns-query
+[/58pxe.com/]https://223.5.5.5/dns-query
 [/58q8.com/]https://223.5.5.5/dns-query
 [/58qz.com/]https://223.5.5.5/dns-query
 [/58school.com/]https://223.5.5.5/dns-query
@@ -5840,6 +5849,7 @@
 [/6666sa.com/]https://223.5.5.5/dns-query
 [/6666xsw.com/]https://223.5.5.5/dns-query
 [/666834.xyz/]https://223.5.5.5/dns-query
+[/66688.photo/]https://223.5.5.5/dns-query
 [/6669667.com/]https://223.5.5.5/dns-query
 [/666gps.com/]https://223.5.5.5/dns-query
 [/666idc.com/]https://223.5.5.5/dns-query
@@ -5929,6 +5939,7 @@
 [/67017.com/]https://223.5.5.5/dns-query
 [/6711.com/]https://223.5.5.5/dns-query
 [/6711img.com/]https://223.5.5.5/dns-query
+[/672g.com/]https://223.5.5.5/dns-query
 [/673m2f.com/]https://223.5.5.5/dns-query
 [/67479.org/]https://223.5.5.5/dns-query
 [/6749044.cc/]https://223.5.5.5/dns-query
@@ -6319,7 +6330,6 @@
 [/76963.com/]https://223.5.5.5/dns-query
 [/769car.com/]https://223.5.5.5/dns-query
 [/76ab.com/]https://223.5.5.5/dns-query
-[/76al.com/]https://223.5.5.5/dns-query
 [/76baobao.com/]https://223.5.5.5/dns-query
 [/76bb.com/]https://223.5.5.5/dns-query
 [/76dongdong.com/]https://223.5.5.5/dns-query
@@ -6850,6 +6860,7 @@
 [/86clouds.com/]https://223.5.5.5/dns-query
 [/86crk.com/]https://223.5.5.5/dns-query
 [/86ditu.com/]https://223.5.5.5/dns-query
+[/86dk.com/]https://223.5.5.5/dns-query
 [/86eh.com/]https://223.5.5.5/dns-query
 [/86eye.com/]https://223.5.5.5/dns-query
 [/86fis.com/]https://223.5.5.5/dns-query
@@ -7432,6 +7443,7 @@
 [/926kf.com/]https://223.5.5.5/dns-query
 [/927927.com/]https://223.5.5.5/dns-query
 [/927953.com/]https://223.5.5.5/dns-query
+[/927game.com/]https://223.5.5.5/dns-query
 [/927jx.com/]https://223.5.5.5/dns-query
 [/928vbi.com/]https://223.5.5.5/dns-query
 [/92913.com/]https://223.5.5.5/dns-query
@@ -7488,6 +7500,9 @@
 [/93665.xin/]https://223.5.5.5/dns-query
 [/9366qq.com/]https://223.5.5.5/dns-query
 [/936u.com/]https://223.5.5.5/dns-query
+[/937-2.vip/]https://223.5.5.5/dns-query
+[/937-3.vip/]https://223.5.5.5/dns-query
+[/937-6.vip/]https://223.5.5.5/dns-query
 [/9377.com/]https://223.5.5.5/dns-query
 [/9377a.com/]https://223.5.5.5/dns-query
 [/9377co.com/]https://223.5.5.5/dns-query
@@ -7562,6 +7577,7 @@
 [/94xy.com/]https://223.5.5.5/dns-query
 [/94you.net/]https://223.5.5.5/dns-query
 [/94ys.com/]https://223.5.5.5/dns-query
+[/95-1.vip/]https://223.5.5.5/dns-query
 [/95.com/]https://223.5.5.5/dns-query
 [/95007.com/]https://223.5.5.5/dns-query
 [/95013.com/]https://223.5.5.5/dns-query
@@ -7608,6 +7624,8 @@
 [/9565.com/]https://223.5.5.5/dns-query
 [/9588.com/]https://223.5.5.5/dns-query
 [/95890.com/]https://223.5.5.5/dns-query
+[/959505.vip/]https://223.5.5.5/dns-query
+[/9595111.vip/]https://223.5.5.5/dns-query
 [/95a.co/]https://223.5.5.5/dns-query
 [/95b.co/]https://223.5.5.5/dns-query
 [/95bd.com/]https://223.5.5.5/dns-query
@@ -7808,7 +7826,6 @@
 [/9966.org/]https://223.5.5.5/dns-query
 [/9966333.com/]https://223.5.5.5/dns-query
 [/9966886699.com/]https://223.5.5.5/dns-query
-[/9966w.com/]https://223.5.5.5/dns-query
 [/996996.com/]https://223.5.5.5/dns-query
 [/996a.com/]https://223.5.5.5/dns-query
 [/996box.com/]https://223.5.5.5/dns-query
@@ -7977,6 +7994,7 @@
 [/9fbank.com/]https://223.5.5.5/dns-query
 [/9first.com/]https://223.5.5.5/dns-query
 [/9flb.com/]https://223.5.5.5/dns-query
+[/9fmk.com/]https://223.5.5.5/dns-query
 [/9fo.com/]https://223.5.5.5/dns-query
 [/9fonecard.com/]https://223.5.5.5/dns-query
 [/9fpuhui.com/]https://223.5.5.5/dns-query
@@ -8513,6 +8531,7 @@
 [/adtime.com/]https://223.5.5.5/dns-query
 [/adtmm.com/]https://223.5.5.5/dns-query
 [/adtxl.com/]https://223.5.5.5/dns-query
+[/aduan.cc/]https://223.5.5.5/dns-query
 [/adubest.com/]https://223.5.5.5/dns-query
 [/adukwai.com/]https://223.5.5.5/dns-query
 [/adunicorn.com/]https://223.5.5.5/dns-query
@@ -9055,6 +9074,7 @@
 [/aimsen.com/]https://223.5.5.5/dns-query
 [/aimtao.net/]https://223.5.5.5/dns-query
 [/aimu-app.com/]https://223.5.5.5/dns-query
+[/ainas.cc/]https://223.5.5.5/dns-query
 [/ainiapp.com/]https://223.5.5.5/dns-query
 [/ainingjiaoyu.com/]https://223.5.5.5/dns-query
 [/ainirobot.com/]https://223.5.5.5/dns-query
@@ -9141,6 +9161,7 @@
 [/airwh.com/]https://223.5.5.5/dns-query
 [/aisaohuo.com/]https://223.5.5.5/dns-query
 [/aisbeijing.com/]https://223.5.5.5/dns-query
+[/aise.chat/]https://223.5.5.5/dns-query
 [/aisee.tv/]https://223.5.5.5/dns-query
 [/aiseeking.com/]https://223.5.5.5/dns-query
 [/aiseminar.com/]https://223.5.5.5/dns-query
@@ -9245,6 +9266,7 @@
 [/aixuesheng.net/]https://223.5.5.5/dns-query
 [/aixuetang.com/]https://223.5.5.5/dns-query
 [/aixuexi.com/]https://223.5.5.5/dns-query
+[/aixuli.com/]https://223.5.5.5/dns-query
 [/aixzu.com/]https://223.5.5.5/dns-query
 [/aiya.live/]https://223.5.5.5/dns-query
 [/aiya8.com/]https://223.5.5.5/dns-query
@@ -9941,6 +9963,7 @@
 [/anquanssl.com/]https://223.5.5.5/dns-query
 [/anquantong.com/]https://223.5.5.5/dns-query
 [/anquanzhao.com/]https://223.5.5.5/dns-query
+[/anran233.com/]https://223.5.5.5/dns-query
 [/anrayer.com/]https://223.5.5.5/dns-query
 [/anren.org/]https://223.5.5.5/dns-query
 [/anrenmind.com/]https://223.5.5.5/dns-query
@@ -10210,6 +10233,7 @@
 [/apehorse.com/]https://223.5.5.5/dns-query
 [/apeiwan.com/]https://223.5.5.5/dns-query
 [/apelearn.com/]https://223.5.5.5/dns-query
+[/apeloa.com/]https://223.5.5.5/dns-query
 [/apesk.com/]https://223.5.5.5/dns-query
 [/apetdog.com/]https://223.5.5.5/dns-query
 [/apevolo.com/]https://223.5.5.5/dns-query
@@ -10249,6 +10273,7 @@
 [/apkpackagesys.com/]https://223.5.5.5/dns-query
 [/apkplug.com/]https://223.5.5.5/dns-query
 [/apkrj.com/]https://223.5.5.5/dns-query
+[/apkxz.com/]https://223.5.5.5/dns-query
 [/apkyx.com/]https://223.5.5.5/dns-query
 [/apkzu.com/]https://223.5.5.5/dns-query
 [/aplaybox.com/]https://223.5.5.5/dns-query
@@ -10336,6 +10361,7 @@
 [/applysquare.com/]https://223.5.5.5/dns-query
 [/applysquare.net/]https://223.5.5.5/dns-query
 [/appmifile.com/]https://223.5.5.5/dns-query
+[/appmiu.com/]https://223.5.5.5/dns-query
 [/appnode.com/]https://223.5.5.5/dns-query
 [/appointen.lol/]https://223.5.5.5/dns-query
 [/appol.com/]https://223.5.5.5/dns-query
@@ -10402,6 +10428,7 @@
 [/aqniu.com/]https://223.5.5.5/dns-query
 [/aqqcx.com/]https://223.5.5.5/dns-query
 [/aqrsblg.com/]https://223.5.5.5/dns-query
+[/aqsc.org/]https://223.5.5.5/dns-query
 [/aqsiqauto.com/]https://223.5.5.5/dns-query
 [/aqtd.com/]https://223.5.5.5/dns-query
 [/aquacity-tj.com/]https://223.5.5.5/dns-query
@@ -10473,6 +10500,7 @@
 [/ark301.com/]https://223.5.5.5/dns-query
 [/arkchuxin.com/]https://223.5.5.5/dns-query
 [/arkfeng.xyz/]https://223.5.5.5/dns-query
+[/arkid.cc/]https://223.5.5.5/dns-query
 [/arkoo.com/]https://223.5.5.5/dns-query
 [/arkrdigital.com/]https://223.5.5.5/dns-query
 [/arkread.com/]https://223.5.5.5/dns-query
@@ -10734,6 +10762,7 @@
 [/atido.com/]https://223.5.5.5/dns-query
 [/atimeli.com/]https://223.5.5.5/dns-query
 [/ating.info/]https://223.5.5.5/dns-query
+[/atk.pro/]https://223.5.5.5/dns-query
 [/atlxm.com/]https://223.5.5.5/dns-query
 [/atmbox.com/]https://223.5.5.5/dns-query
 [/atmcu.com/]https://223.5.5.5/dns-query
@@ -10802,6 +10831,7 @@
 [/auplanking.com/]https://223.5.5.5/dns-query
 [/aupu.net/]https://223.5.5.5/dns-query
 [/aura-el.com/]https://223.5.5.5/dns-query
+[/auroapi.com/]https://223.5.5.5/dns-query
 [/auromcs.com/]https://223.5.5.5/dns-query
 [/aurora-jy.com/]https://223.5.5.5/dns-query
 [/aurumdriver.vip/]https://223.5.5.5/dns-query
@@ -11024,6 +11054,7 @@
 [/awu.cool/]https://223.5.5.5/dns-query
 [/awuming.com/]https://223.5.5.5/dns-query
 [/awx1.com/]https://223.5.5.5/dns-query
+[/ax196.com/]https://223.5.5.5/dns-query
 [/ax1x.com/]https://223.5.5.5/dns-query
 [/ax2nc4.ren/]https://223.5.5.5/dns-query
 [/ax630.com/]https://223.5.5.5/dns-query
@@ -11091,6 +11122,7 @@
 [/ayuren.com/]https://223.5.5.5/dns-query
 [/ayuwoe.com/]https://223.5.5.5/dns-query
 [/ayuyun.com/]https://223.5.5.5/dns-query
+[/ayw.ink/]https://223.5.5.5/dns-query
 [/ayxbk.com/]https://223.5.5.5/dns-query
 [/ayxz.com/]https://223.5.5.5/dns-query
 [/ayzzxx.com/]https://223.5.5.5/dns-query
@@ -11137,7 +11169,6 @@
 [/b1bj.com/]https://223.5.5.5/dns-query
 [/b1n.net/]https://223.5.5.5/dns-query
 [/b1qg.com/]https://223.5.5.5/dns-query
-[/b22.cc/]https://223.5.5.5/dns-query
 [/b23.tv/]https://223.5.5.5/dns-query
 [/b2b-builder.com/]https://223.5.5.5/dns-query
 [/b2b.biz/]https://223.5.5.5/dns-query
@@ -11310,6 +11341,7 @@
 [/baidufe.com/]https://223.5.5.5/dns-query
 [/baidufree.com/]https://223.5.5.5/dns-query
 [/baiduhaoba.com/]https://223.5.5.5/dns-query
+[/baiduhtml5.com/]https://223.5.5.5/dns-query
 [/baiduhui.com/]https://223.5.5.5/dns-query
 [/baidulook.com/]https://223.5.5.5/dns-query
 [/baidunongmin.com/]https://223.5.5.5/dns-query
@@ -11375,7 +11407,6 @@
 [/baijiayun.com/]https://223.5.5.5/dns-query
 [/baijiayuncdn.com/]https://223.5.5.5/dns-query
 [/baijiegroup.com/]https://223.5.5.5/dns-query
-[/baijiekj.com/]https://223.5.5.5/dns-query
 [/baijiexiu.com/]https://223.5.5.5/dns-query
 [/baijincdn.com/]https://223.5.5.5/dns-query
 [/baijindai.com/]https://223.5.5.5/dns-query
@@ -12522,6 +12553,7 @@
 [/betaflare.com/]https://223.5.5.5/dns-query
 [/betaidc.com/]https://223.5.5.5/dns-query
 [/betamao.me/]https://223.5.5.5/dns-query
+[/betaquantity.com/]https://223.5.5.5/dns-query
 [/betawm.com/]https://223.5.5.5/dns-query
 [/betazixun.com/]https://223.5.5.5/dns-query
 [/betbr1.com/]https://223.5.5.5/dns-query
@@ -12721,6 +12753,7 @@
 [/biantongzixun.com/]https://223.5.5.5/dns-query
 [/bianwa.com/]https://223.5.5.5/dns-query
 [/bianwanjia.com/]https://223.5.5.5/dns-query
+[/bianxian.com/]https://223.5.5.5/dns-query
 [/bianxianmao.com/]https://223.5.5.5/dns-query
 [/bianxianwu.com/]https://223.5.5.5/dns-query
 [/bianyuandaigou.com/]https://223.5.5.5/dns-query
@@ -12838,6 +12871,7 @@
 [/bignox.com/]https://223.5.5.5/dns-query
 [/bigops.com/]https://223.5.5.5/dns-query
 [/bigplayers.com/]https://223.5.5.5/dns-query
+[/bigpt8.com/]https://223.5.5.5/dns-query
 [/bigqiao.com/]https://223.5.5.5/dns-query
 [/bigquant.com/]https://223.5.5.5/dns-query
 [/bigrnet.com/]https://223.5.5.5/dns-query
@@ -13042,7 +13076,6 @@
 [/biqugezw.us/]https://223.5.5.5/dns-query
 [/biqugu.cc/]https://223.5.5.5/dns-query
 [/biquka.com/]https://223.5.5.5/dns-query
-[/biquka2.com/]https://223.5.5.5/dns-query
 [/biqukai.com/]https://223.5.5.5/dns-query
 [/biqukan.com/]https://223.5.5.5/dns-query
 [/biquke.com/]https://223.5.5.5/dns-query
@@ -13442,6 +13475,7 @@
 [/bjsubway.cc/]https://223.5.5.5/dns-query
 [/bjsubway.com/]https://223.5.5.5/dns-query
 [/bjsuewin.com/]https://223.5.5.5/dns-query
+[/bjsunhouse.com/]https://223.5.5.5/dns-query
 [/bjsxt.com/]https://223.5.5.5/dns-query
 [/bjsydq.com/]https://223.5.5.5/dns-query
 [/bjsyqw.com/]https://223.5.5.5/dns-query
@@ -14082,6 +14116,7 @@
 [/botslab.com/]https://223.5.5.5/dns-query
 [/bouffalolab.com/]https://223.5.5.5/dns-query
 [/bountech.com/]https://223.5.5.5/dns-query
+[/bountyteam.com/]https://223.5.5.5/dns-query
 [/boweifeng.com/]https://223.5.5.5/dns-query
 [/bowerp.com/]https://223.5.5.5/dns-query
 [/bowu66.com/]https://223.5.5.5/dns-query
@@ -14119,6 +14154,7 @@
 [/boyuesh.com/]https://223.5.5.5/dns-query
 [/boyuguandao.com/]https://223.5.5.5/dns-query
 [/boyunso.com/]https://223.5.5.5/dns-query
+[/boyuntu.com/]https://223.5.5.5/dns-query
 [/boyuonline.com/]https://223.5.5.5/dns-query
 [/bozhihr.com/]https://223.5.5.5/dns-query
 [/bozhihua.com/]https://223.5.5.5/dns-query
@@ -15281,6 +15317,7 @@
 [/cashcatads.com/]https://223.5.5.5/dns-query
 [/cashtoutiao.com/]https://223.5.5.5/dns-query
 [/cashwaytech.com/]https://223.5.5.5/dns-query
+[/casibase.com/]https://223.5.5.5/dns-query
 [/casic-addsino.com/]https://223.5.5.5/dns-query
 [/casic-t.com/]https://223.5.5.5/dns-query
 [/casic.com/]https://223.5.5.5/dns-query
@@ -15387,6 +15424,7 @@
 [/cbxg.icu/]https://223.5.5.5/dns-query
 [/cby.me/]https://223.5.5.5/dns-query
 [/cbzr.com/]https://223.5.5.5/dns-query
+[/cc-airshow.com/]https://223.5.5.5/dns-query
 [/cc-image.com/]https://223.5.5.5/dns-query
 [/cc-pharming.com/]https://223.5.5.5/dns-query
 [/cc.co/]https://223.5.5.5/dns-query
@@ -15434,7 +15472,6 @@
 [/cccmat.com/]https://223.5.5.5/dns-query
 [/cccmtf.com/]https://223.5.5.5/dns-query
 [/cccnec.com/]https://223.5.5.5/dns-query
-[/cccollector.com/]https://223.5.5.5/dns-query
 [/cccovvv.com/]https://223.5.5.5/dns-query
 [/cccp.online/]https://223.5.5.5/dns-query
 [/cccpan.com/]https://223.5.5.5/dns-query
@@ -15817,6 +15854,7 @@
 [/cdn88.cc/]https://223.5.5.5/dns-query
 [/cdn99.com/]https://223.5.5.5/dns-query
 [/cdnaaa.net/]https://223.5.5.5/dns-query
+[/cdnb.net/]https://223.5.5.5/dns-query
 [/cdnbuild.net/]https://223.5.5.5/dns-query
 [/cdnbye.com/]https://223.5.5.5/dns-query
 [/cdncache.com/]https://223.5.5.5/dns-query
@@ -16197,6 +16235,7 @@
 [/cfiecdns.net/]https://223.5.5.5/dns-query
 [/cfimg.com/]https://223.5.5.5/dns-query
 [/cfjbqc.com/]https://223.5.5.5/dns-query
+[/cfkdn.com/]https://223.5.5.5/dns-query
 [/cfkjgx.com/]https://223.5.5.5/dns-query
 [/cflab.net/]https://223.5.5.5/dns-query
 [/cflm.com/]https://223.5.5.5/dns-query
@@ -16212,6 +16251,7 @@
 [/cfpsf.com/]https://223.5.5.5/dns-query
 [/cfscar.com/]https://223.5.5.5/dns-query
 [/cfsino.com/]https://223.5.5.5/dns-query
+[/cfss.cc/]https://223.5.5.5/dns-query
 [/cfsuper.com/]https://223.5.5.5/dns-query
 [/cftcredit.com/]https://223.5.5.5/dns-query
 [/cftea.com/]https://223.5.5.5/dns-query
@@ -16385,6 +16425,7 @@
 [/chamiji.com/]https://223.5.5.5/dns-query
 [/champconsult.com/]https://223.5.5.5/dns-query
 [/championunion.com/]https://223.5.5.5/dns-query
+[/champsely.com/]https://223.5.5.5/dns-query
 [/chance-ad.com/]https://223.5.5.5/dns-query
 [/chancel.ltd/]https://223.5.5.5/dns-query
 [/chandao.net/]https://223.5.5.5/dns-query
@@ -16408,6 +16449,7 @@
 [/changdaore.com/]https://223.5.5.5/dns-query
 [/changfa.com/]https://223.5.5.5/dns-query
 [/changfengpacking.com/]https://223.5.5.5/dns-query
+[/changfengsteeltube.com/]https://223.5.5.5/dns-query
 [/changfon.com/]https://223.5.5.5/dns-query
 [/changhe.tech/]https://223.5.5.5/dns-query
 [/changheauto.com/]https://223.5.5.5/dns-query
@@ -16994,6 +17036,7 @@
 [/china-kaoshi.com/]https://223.5.5.5/dns-query
 [/china-key.com/]https://223.5.5.5/dns-query
 [/china-kids-expo.com/]https://223.5.5.5/dns-query
+[/china-kids-fair.com/]https://223.5.5.5/dns-query
 [/china-knobs.com/]https://223.5.5.5/dns-query
 [/china-latv.com/]https://223.5.5.5/dns-query
 [/china-lawoffice.com/]https://223.5.5.5/dns-query
@@ -17088,6 +17131,7 @@
 [/chinaairer.com/]https://223.5.5.5/dns-query
 [/chinaamc.com/]https://223.5.5.5/dns-query
 [/chinaang.com/]https://223.5.5.5/dns-query
+[/chinaaris.com/]https://223.5.5.5/dns-query
 [/chinaartificialstone.com/]https://223.5.5.5/dns-query
 [/chinaasaservice.com/]https://223.5.5.5/dns-query
 [/chinaasc.org/]https://223.5.5.5/dns-query
@@ -17370,6 +17414,7 @@
 [/chinakyzl.com/]https://223.5.5.5/dns-query
 [/chinalabexpo.com/]https://223.5.5.5/dns-query
 [/chinalabs.com/]https://223.5.5.5/dns-query
+[/chinalahigh.com/]https://223.5.5.5/dns-query
 [/chinalancoo.com/]https://223.5.5.5/dns-query
 [/chinalandpress.com/]https://223.5.5.5/dns-query
 [/chinalao.com/]https://223.5.5.5/dns-query
@@ -17621,6 +17666,7 @@
 [/chinavisual.com/]https://223.5.5.5/dns-query
 [/chinavivers.com/]https://223.5.5.5/dns-query
 [/chinavr.net/]https://223.5.5.5/dns-query
+[/chinawanbang.com/]https://223.5.5.5/dns-query
 [/chinawanda.com/]https://223.5.5.5/dns-query
 [/chinawatchnet.com/]https://223.5.5.5/dns-query
 [/chinawbk.com/]https://223.5.5.5/dns-query
@@ -17666,6 +17712,7 @@
 [/chinaymc.com/]https://223.5.5.5/dns-query
 [/chinayouji.com/]https://223.5.5.5/dns-query
 [/chinayounao.com/]https://223.5.5.5/dns-query
+[/chinayoxfc8otianye.com/]https://223.5.5.5/dns-query
 [/chinayq.com/]https://223.5.5.5/dns-query
 [/chinays.com/]https://223.5.5.5/dns-query
 [/chinayuanwang.com/]https://223.5.5.5/dns-query
@@ -18496,6 +18543,7 @@
 [/cloudangelfunds.com/]https://223.5.5.5/dns-query
 [/cloudbase.net/]https://223.5.5.5/dns-query
 [/cloudbility.com/]https://223.5.5.5/dns-query
+[/cloudbool.com/]https://223.5.5.5/dns-query
 [/cloudcachetci.com/]https://223.5.5.5/dns-query
 [/cloudcc.com/]https://223.5.5.5/dns-query
 [/cloudcdn.net/]https://223.5.5.5/dns-query
@@ -19501,6 +19549,7 @@
 [/codemany.com/]https://223.5.5.5/dns-query
 [/codemart.com/]https://223.5.5.5/dns-query
 [/codemm.net/]https://223.5.5.5/dns-query
+[/codenews.cc/]https://223.5.5.5/dns-query
 [/codeonce.cc/]https://223.5.5.5/dns-query
 [/codepku.com/]https://223.5.5.5/dns-query
 [/codeplayer.vip/]https://223.5.5.5/dns-query
@@ -20845,6 +20894,7 @@
 [/cyikao.com/]https://223.5.5.5/dns-query
 [/cyimking.com/]https://223.5.5.5/dns-query
 [/cyjcloud.com/]https://223.5.5.5/dns-query
+[/cyjhfm.com/]https://223.5.5.5/dns-query
 [/cyjiasu.com/]https://223.5.5.5/dns-query
 [/cyjjw.net/]https://223.5.5.5/dns-query
 [/cyjnsy.com/]https://223.5.5.5/dns-query
@@ -21630,6 +21680,7 @@
 [/daxianzuji.com/]https://223.5.5.5/dns-query
 [/daxicn.com/]https://223.5.5.5/dns-query
 [/daxiit.com/]https://223.5.5.5/dns-query
+[/daxiongxueyixue.com/]https://223.5.5.5/dns-query
 [/daxuecidian.com/]https://223.5.5.5/dns-query
 [/daxuecn.com/]https://223.5.5.5/dns-query
 [/daxueit.com/]https://223.5.5.5/dns-query
@@ -21897,6 +21948,7 @@
 [/ddurl.to/]https://223.5.5.5/dns-query
 [/dduser.mobi/]https://223.5.5.5/dns-query
 [/dduwork.com/]https://223.5.5.5/dns-query
+[/ddvaj.com/]https://223.5.5.5/dns-query
 [/ddw1931.com/]https://223.5.5.5/dns-query
 [/ddweilai.com/]https://223.5.5.5/dns-query
 [/ddwhm.com/]https://223.5.5.5/dns-query
@@ -22313,6 +22365,7 @@
 [/dgkj888.com/]https://223.5.5.5/dns-query
 [/dglpool.com/]https://223.5.5.5/dns-query
 [/dglyjx.com/]https://223.5.5.5/dns-query
+[/dglzd.com/]https://223.5.5.5/dns-query
 [/dgmama.net/]https://223.5.5.5/dns-query
 [/dgmedusa.com/]https://223.5.5.5/dns-query
 [/dgn.cc/]https://223.5.5.5/dns-query
@@ -23139,6 +23192,7 @@
 [/dns6868.com/]https://223.5.5.5/dns-query
 [/dns800.com/]https://223.5.5.5/dns-query
 [/dns819.com/]https://223.5.5.5/dns-query
+[/dnsany.com/]https://223.5.5.5/dns-query
 [/dnsapi12.com/]https://223.5.5.5/dns-query
 [/dnsbbzj.com/]https://223.5.5.5/dns-query
 [/dnsce.com/]https://223.5.5.5/dns-query
@@ -23442,6 +23496,7 @@
 [/doodoobird.com/]https://223.5.5.5/dns-query
 [/doofull.com/]https://223.5.5.5/dns-query
 [/dooioo.com/]https://223.5.5.5/dns-query
+[/dookay.com/]https://223.5.5.5/dns-query
 [/dooland.com/]https://223.5.5.5/dns-query
 [/doomii.com/]https://223.5.5.5/dns-query
 [/doonsec.com/]https://223.5.5.5/dns-query
@@ -23625,6 +23680,7 @@
 [/downok.com/]https://223.5.5.5/dns-query
 [/downos.com/]https://223.5.5.5/dns-query
 [/downpp.com/]https://223.5.5.5/dns-query
+[/downqa.com/]https://223.5.5.5/dns-query
 [/downsave.com/]https://223.5.5.5/dns-query
 [/downxia.com/]https://223.5.5.5/dns-query
 [/downxing.com/]https://223.5.5.5/dns-query
@@ -23837,6 +23893,7 @@
 [/dswql.com/]https://223.5.5.5/dns-query
 [/dswqw2025.com/]https://223.5.5.5/dns-query
 [/dswzxh.com/]https://223.5.5.5/dns-query
+[/dsx2020.com/]https://223.5.5.5/dns-query
 [/dsxdn.com/]https://223.5.5.5/dns-query
 [/dsxys.pro/]https://223.5.5.5/dns-query
 [/dsyun.com/]https://223.5.5.5/dns-query
@@ -24015,6 +24072,7 @@
 [/duohuanbao.com/]https://223.5.5.5/dns-query
 [/duohui.co/]https://223.5.5.5/dns-query
 [/duoic.com/]https://223.5.5.5/dns-query
+[/duokaima.com/]https://223.5.5.5/dns-query
 [/duokaiwang.com/]https://223.5.5.5/dns-query
 [/duokaiya.com/]https://223.5.5.5/dns-query
 [/duokaiyun.com/]https://223.5.5.5/dns-query
@@ -24140,6 +24198,7 @@
 [/duwenzhang.com/]https://223.5.5.5/dns-query
 [/duxiaoman.com/]https://223.5.5.5/dns-query
 [/duxiaomanfintech.com/]https://223.5.5.5/dns-query
+[/duxiaomanfund.com/]https://223.5.5.5/dns-query
 [/duxiaoshuo.com/]https://223.5.5.5/dns-query
 [/duxiu.com/]https://223.5.5.5/dns-query
 [/duyandb.com/]https://223.5.5.5/dns-query
@@ -24173,6 +24232,7 @@
 [/dwdds.com/]https://223.5.5.5/dns-query
 [/dwgwatch.com/]https://223.5.5.5/dns-query
 [/dwhub.net/]https://223.5.5.5/dns-query
+[/dwidc.com/]https://223.5.5.5/dns-query
 [/dwinput.com/]https://223.5.5.5/dns-query
 [/dwiz882.com/]https://223.5.5.5/dns-query
 [/dwjkgl.com/]https://223.5.5.5/dns-query
@@ -24643,6 +24703,7 @@
 [/easugar.com/]https://223.5.5.5/dns-query
 [/easy-all.net/]https://223.5.5.5/dns-query
 [/easy-china.com/]https://223.5.5.5/dns-query
+[/easy-dotnet.com/]https://223.5.5.5/dns-query
 [/easy-eai.com/]https://223.5.5.5/dns-query
 [/easy-ent.com/]https://223.5.5.5/dns-query
 [/easy-h5.com/]https://223.5.5.5/dns-query
@@ -24923,6 +24984,7 @@
 [/edge-byted.com/]https://223.5.5.5/dns-query
 [/edgegslb.com/]https://223.5.5.5/dns-query
 [/edgemec.com/]https://223.5.5.5/dns-query
+[/edgeone.app/]https://223.5.5.5/dns-query
 [/edgesrv.com/]https://223.5.5.5/dns-query
 [/edhic.com/]https://223.5.5.5/dns-query
 [/edi198.com/]https://223.5.5.5/dns-query
@@ -25456,6 +25518,7 @@
 [/enfi.vip/]https://223.5.5.5/dns-query
 [/enflame-tech.com/]https://223.5.5.5/dns-query
 [/enfodesk.com/]https://223.5.5.5/dns-query
+[/enforever.com/]https://223.5.5.5/dns-query
 [/eng24.com/]https://223.5.5.5/dns-query
 [/engeniustec.com/]https://223.5.5.5/dns-query
 [/engincosar.com/]https://223.5.5.5/dns-query
@@ -25777,6 +25840,7 @@
 [/esutc.sbs/]https://223.5.5.5/dns-query
 [/eswin.com/]https://223.5.5.5/dns-query
 [/eswincomputing.com/]https://223.5.5.5/dns-query
+[/eswlnk.com/]https://223.5.5.5/dns-query
 [/eswxj.com/]https://223.5.5.5/dns-query
 [/eswzx.com/]https://223.5.5.5/dns-query
 [/esy.org/]https://223.5.5.5/dns-query
@@ -25789,6 +25853,7 @@
 [/et-fine.com/]https://223.5.5.5/dns-query
 [/et59.com/]https://223.5.5.5/dns-query
 [/et998.com/]https://223.5.5.5/dns-query
+[/etagrfid.com/]https://223.5.5.5/dns-query
 [/etao.com/]https://223.5.5.5/dns-query
 [/etaog.com/]https://223.5.5.5/dns-query
 [/etaswisswatch.com/]https://223.5.5.5/dns-query
@@ -26090,6 +26155,7 @@
 [/eycfhb.com/]https://223.5.5.5/dns-query
 [/eycms.net/]https://223.5.5.5/dns-query
 [/eydata.net/]https://223.5.5.5/dns-query
+[/eydns.com/]https://223.5.5.5/dns-query
 [/eye024.com/]https://223.5.5.5/dns-query
 [/eye027.com/]https://223.5.5.5/dns-query
 [/eye0712.com/]https://223.5.5.5/dns-query
@@ -26549,6 +26615,7 @@
 [/fanyu.work/]https://223.5.5.5/dns-query
 [/fanyuip.com/]https://223.5.5.5/dns-query
 [/fanzehua.com/]https://223.5.5.5/dns-query
+[/fanzhewenhua.xyz/]https://223.5.5.5/dns-query
 [/fanzhidu.com/]https://223.5.5.5/dns-query
 [/fanzhiyang.com/]https://223.5.5.5/dns-query
 [/fapharm.com/]https://223.5.5.5/dns-query
@@ -26932,6 +26999,7 @@
 [/feizhuke.com/]https://223.5.5.5/dns-query
 [/feizhupan.com/]https://223.5.5.5/dns-query
 [/feizhuqwq.com/]https://223.5.5.5/dns-query
+[/feizutrip.com/]https://223.5.5.5/dns-query
 [/felicitysolar.com/]https://223.5.5.5/dns-query
 [/feling.net/]https://223.5.5.5/dns-query
 [/felink.com/]https://223.5.5.5/dns-query
@@ -27736,7 +27804,6 @@
 [/fosunholiday.com/]https://223.5.5.5/dns-query
 [/fosunmetal.com/]https://223.5.5.5/dns-query
 [/fosunpharma.com/]https://223.5.5.5/dns-query
-[/fotao.name/]https://223.5.5.5/dns-query
 [/fotao9.com/]https://223.5.5.5/dns-query
 [/fothlaw.com/]https://223.5.5.5/dns-query
 [/fotile.com/]https://223.5.5.5/dns-query
@@ -28138,6 +28205,7 @@
 [/funengscm.com/]https://223.5.5.5/dns-query
 [/funeralchain.com/]https://223.5.5.5/dns-query
 [/funfungolf.com/]https://223.5.5.5/dns-query
+[/fungj.com/]https://223.5.5.5/dns-query
 [/funi.com/]https://223.5.5.5/dns-query
 [/funi365.com/]https://223.5.5.5/dns-query
 [/funinput.com/]https://223.5.5.5/dns-query
@@ -28869,6 +28937,7 @@
 [/gcjc.com/]https://223.5.5.5/dns-query
 [/gcjlkj.com/]https://223.5.5.5/dns-query
 [/gcjr.com/]https://223.5.5.5/dns-query
+[/gckychina.com/]https://223.5.5.5/dns-query
 [/gcl-et.com/]https://223.5.5.5/dns-query
 [/gcld.xyz/]https://223.5.5.5/dns-query
 [/gclhgc.com/]https://223.5.5.5/dns-query
@@ -28952,6 +29021,7 @@
 [/gdfenxiao.com/]https://223.5.5.5/dns-query
 [/gdfplaza.com/]https://223.5.5.5/dns-query
 [/gdfs.com/]https://223.5.5.5/dns-query
+[/gdfshx.com/]https://223.5.5.5/dns-query
 [/gdgassoc.com/]https://223.5.5.5/dns-query
 [/gdggkf.com/]https://223.5.5.5/dns-query
 [/gdgrsw.com/]https://223.5.5.5/dns-query
@@ -29550,6 +29620,7 @@
 [/giho.com/]https://223.5.5.5/dns-query
 [/giikin.com/]https://223.5.5.5/dns-query
 [/giiso.com/]https://223.5.5.5/dns-query
+[/gijsq.com/]https://223.5.5.5/dns-query
 [/gildata.com/]https://223.5.5.5/dns-query
 [/gilieye.com/]https://223.5.5.5/dns-query
 [/gillmoversuae.com/]https://223.5.5.5/dns-query
@@ -30492,6 +30563,7 @@
 [/gptkong.com/]https://223.5.5.5/dns-query
 [/gptshops.ai/]https://223.5.5.5/dns-query
 [/gpubgm.com/]https://223.5.5.5/dns-query
+[/gpuez.com/]https://223.5.5.5/dns-query
 [/gpxxz.com/]https://223.5.5.5/dns-query
 [/gpxygpfx.com/]https://223.5.5.5/dns-query
 [/gpxz.com/]https://223.5.5.5/dns-query
@@ -30774,6 +30846,7 @@
 [/gtm-i2d6.com/]https://223.5.5.5/dns-query
 [/gtm-i2d8.com/]https://223.5.5.5/dns-query
 [/gtm-i2d9.com/]https://223.5.5.5/dns-query
+[/gtm-we.com/]https://223.5.5.5/dns-query
 [/gtmlufax.com/]https://223.5.5.5/dns-query
 [/gtmly-lyilgily.com/]https://223.5.5.5/dns-query
 [/gtmsh.com/]https://223.5.5.5/dns-query
@@ -30806,6 +30879,7 @@
 [/guailuzi.com/]https://223.5.5.5/dns-query
 [/guaini.blog/]https://223.5.5.5/dns-query
 [/guaiquaner.site/]https://223.5.5.5/dns-query
+[/guaitoo.com/]https://223.5.5.5/dns-query
 [/guaixueke.com/]https://223.5.5.5/dns-query
 [/guaixun.com/]https://223.5.5.5/dns-query
 [/guajibao.club/]https://223.5.5.5/dns-query
@@ -33002,7 +33076,6 @@
 [/gxtongyin.com/]https://223.5.5.5/dns-query
 [/gxtongzhu.com/]https://223.5.5.5/dns-query
 [/gxtopart.com/]https://223.5.5.5/dns-query
-[/gxtouch.com/]https://223.5.5.5/dns-query
 [/gxtp2021.com/]https://223.5.5.5/dns-query
 [/gxtrgs.com/]https://223.5.5.5/dns-query
 [/gxtrwhy.com/]https://223.5.5.5/dns-query
@@ -33713,6 +33786,7 @@
 [/gzidc.com/]https://223.5.5.5/dns-query
 [/gzj568.com/]https://223.5.5.5/dns-query
 [/gzjc2016.com/]https://223.5.5.5/dns-query
+[/gzjgpy.com/]https://223.5.5.5/dns-query
 [/gzjiaw.com/]https://223.5.5.5/dns-query
 [/gzjiema.com/]https://223.5.5.5/dns-query
 [/gzjingsha.com/]https://223.5.5.5/dns-query
@@ -33764,6 +33838,7 @@
 [/gznet.com/]https://223.5.5.5/dns-query
 [/gzngn.com/]https://223.5.5.5/dns-query
 [/gznict.com/]https://223.5.5.5/dns-query
+[/gznotes.com/]https://223.5.5.5/dns-query
 [/gznw.com/]https://223.5.5.5/dns-query
 [/gznxbank.com/]https://223.5.5.5/dns-query
 [/gzpeite.com/]https://223.5.5.5/dns-query
@@ -35573,7 +35648,6 @@
 [/hemayouxi.net/]https://223.5.5.5/dns-query
 [/hemayun.com/]https://223.5.5.5/dns-query
 [/hemayx.com/]https://223.5.5.5/dns-query
-[/hemeiqintangfuxishuidao.com/]https://223.5.5.5/dns-query
 [/hempelgroup.com/]https://223.5.5.5/dns-query
 [/hen360.com/]https://223.5.5.5/dns-query
 [/henan100.com/]https://223.5.5.5/dns-query
@@ -35687,6 +35761,7 @@
 [/heshanghuitong.com/]https://223.5.5.5/dns-query
 [/heshecasa.com/]https://223.5.5.5/dns-query
 [/heshui.com/]https://223.5.5.5/dns-query
+[/heshuyun.com/]https://223.5.5.5/dns-query
 [/hesiyivr.com/]https://223.5.5.5/dns-query
 [/heson10.com/]https://223.5.5.5/dns-query
 [/hesongwang.com/]https://223.5.5.5/dns-query
@@ -35741,7 +35816,6 @@
 [/heyingcn.com/]https://223.5.5.5/dns-query
 [/heyinguanli.com/]https://223.5.5.5/dns-query
 [/heyinshiliu.com/]https://223.5.5.5/dns-query
-[/heyiwangluokeji.com/]https://223.5.5.5/dns-query
 [/heymeo.net/]https://223.5.5.5/dns-query
 [/heymeowfm.com/]https://223.5.5.5/dns-query
 [/heymore.com/]https://223.5.5.5/dns-query
@@ -36115,6 +36189,7 @@
 [/himeidian.com/]https://223.5.5.5/dns-query
 [/himengyou.com/]https://223.5.5.5/dns-query
 [/himetoo.com/]https://223.5.5.5/dns-query
+[/himisw.com/]https://223.5.5.5/dns-query
 [/himmpat.com/]https://223.5.5.5/dns-query
 [/himofi.com/]https://223.5.5.5/dns-query
 [/hin.cool/]https://223.5.5.5/dns-query
@@ -36274,6 +36349,7 @@
 [/hjz4.com/]https://223.5.5.5/dns-query
 [/hjz518.com/]https://223.5.5.5/dns-query
 [/hk-island.hk/]https://223.5.5.5/dns-query
+[/hk-jztzjt.com/]https://223.5.5.5/dns-query
 [/hk-tencentclb.com/]https://223.5.5.5/dns-query
 [/hk-titan.com/]https://223.5.5.5/dns-query
 [/hk-vstart.com/]https://223.5.5.5/dns-query
@@ -36316,6 +36392,7 @@
 [/hkkuaiyixiu.com/]https://223.5.5.5/dns-query
 [/hklego.com/]https://223.5.5.5/dns-query
 [/hklmoto.com/]https://223.5.5.5/dns-query
+[/hklmxcx.com/]https://223.5.5.5/dns-query
 [/hklsqc.com/]https://223.5.5.5/dns-query
 [/hkm168.com/]https://223.5.5.5/dns-query
 [/hkmeinian.com/]https://223.5.5.5/dns-query
@@ -36376,6 +36453,7 @@
 [/hlhyc.com/]https://223.5.5.5/dns-query
 [/hlideal.com/]https://223.5.5.5/dns-query
 [/hljbcgs.com/]https://223.5.5.5/dns-query
+[/hljcqjy.com/]https://223.5.5.5/dns-query
 [/hlje.net/]https://223.5.5.5/dns-query
 [/hljhgckj.com/]https://223.5.5.5/dns-query
 [/hljiasen.com/]https://223.5.5.5/dns-query
@@ -36392,6 +36470,7 @@
 [/hljszjxhw.com/]https://223.5.5.5/dns-query
 [/hljtv.com/]https://223.5.5.5/dns-query
 [/hljucm.net/]https://223.5.5.5/dns-query
+[/hljxgs.com/]https://223.5.5.5/dns-query
 [/hljyestar.com/]https://223.5.5.5/dns-query
 [/hljyqnj.com/]https://223.5.5.5/dns-query
 [/hljyushi.com/]https://223.5.5.5/dns-query
@@ -36595,6 +36674,7 @@
 [/hnliangku.com/]https://223.5.5.5/dns-query
 [/hnlipu.com/]https://223.5.5.5/dns-query
 [/hnlshm.com/]https://223.5.5.5/dns-query
+[/hnltcw.com/]https://223.5.5.5/dns-query
 [/hnlxq.com/]https://223.5.5.5/dns-query
 [/hnlyy.com/]https://223.5.5.5/dns-query
 [/hnlzhd.com/]https://223.5.5.5/dns-query
@@ -36668,6 +36748,7 @@
 [/hnszn.com/]https://223.5.5.5/dns-query
 [/hntbpm.com/]https://223.5.5.5/dns-query
 [/hntchq.com/]https://223.5.5.5/dns-query
+[/hntcmc.net/]https://223.5.5.5/dns-query
 [/hnteacher.net/]https://223.5.5.5/dns-query
 [/hntiannuo.net/]https://223.5.5.5/dns-query
 [/hntianyue.com/]https://223.5.5.5/dns-query
@@ -36727,6 +36808,7 @@
 [/hnzhy.com/]https://223.5.5.5/dns-query
 [/hnzjdc.com/]https://223.5.5.5/dns-query
 [/hnzjip.com/]https://223.5.5.5/dns-query
+[/hnzjyl.com/]https://223.5.5.5/dns-query
 [/hnzm.vip/]https://223.5.5.5/dns-query
 [/hnzoc.com/]https://223.5.5.5/dns-query
 [/hnzqw.com/]https://223.5.5.5/dns-query
@@ -36892,6 +36974,7 @@
 [/hongmitech.com/]https://223.5.5.5/dns-query
 [/hongmo.xyz/]https://223.5.5.5/dns-query
 [/hongmoka.com/]https://223.5.5.5/dns-query
+[/hongmu.com/]https://223.5.5.5/dns-query
 [/hongniang.com/]https://223.5.5.5/dns-query
 [/hongpig.com/]https://223.5.5.5/dns-query
 [/hongqi.tv/]https://223.5.5.5/dns-query
@@ -37956,6 +38039,7 @@
 [/hubeibbs.net/]https://223.5.5.5/dns-query
 [/hubeici.com/]https://223.5.5.5/dns-query
 [/hubeidaily.net/]https://223.5.5.5/dns-query
+[/hubeigongfu.com/]https://223.5.5.5/dns-query
 [/hubeihome.net/]https://223.5.5.5/dns-query
 [/hubeiip.com/]https://223.5.5.5/dns-query
 [/hubeikj.com/]https://223.5.5.5/dns-query
@@ -38190,6 +38274,7 @@
 [/huixinyt.com/]https://223.5.5.5/dns-query
 [/huixinyun.com/]https://223.5.5.5/dns-query
 [/huixuanjiasu.com/]https://223.5.5.5/dns-query
+[/huixueba.net/]https://223.5.5.5/dns-query
 [/huiyan315.com/]https://223.5.5.5/dns-query
 [/huiyankan.com/]https://223.5.5.5/dns-query
 [/huiyanw.com/]https://223.5.5.5/dns-query
@@ -38495,6 +38580,7 @@
 [/hvacstar.com/]https://223.5.5.5/dns-query
 [/hvcnitl.com/]https://223.5.5.5/dns-query
 [/hvdiy.com/]https://223.5.5.5/dns-query
+[/hvread.com/]https://223.5.5.5/dns-query
 [/hvtong.com/]https://223.5.5.5/dns-query
 [/hw-ai.com/]https://223.5.5.5/dns-query
 [/hw-tm.com/]https://223.5.5.5/dns-query
@@ -38999,6 +39085,7 @@
 [/i-bigdatas.net/]https://223.5.5.5/dns-query
 [/i-click.com/]https://223.5.5.5/dns-query
 [/i-excellence.com/]https://223.5.5.5/dns-query
+[/i-f.work/]https://223.5.5.5/dns-query
 [/i-fanr.com/]https://223.5.5.5/dns-query
 [/i-firefly.com/]https://223.5.5.5/dns-query
 [/i-haitao.com/]https://223.5.5.5/dns-query
@@ -39575,6 +39662,7 @@
 [/idongde.com/]https://223.5.5.5/dns-query
 [/idongmai.com/]https://223.5.5.5/dns-query
 [/idongniu.com/]https://223.5.5.5/dns-query
+[/idooshu.com/]https://223.5.5.5/dns-query
 [/idosend.com/]https://223.5.5.5/dns-query
 [/idotools.com/]https://223.5.5.5/dns-query
 [/idoupiao.com/]https://223.5.5.5/dns-query
@@ -39616,7 +39704,6 @@
 [/ieasy123.com/]https://223.5.5.5/dns-query
 [/ieasytech.com/]https://223.5.5.5/dns-query
 [/ieayoio.com/]https://223.5.5.5/dns-query
-[/iebuycar.com/]https://223.5.5.5/dns-query
 [/iecdn.com/]https://223.5.5.5/dns-query
 [/iecidc.com/]https://223.5.5.5/dns-query
 [/iecity.com/]https://223.5.5.5/dns-query
@@ -40217,6 +40304,7 @@
 [/imhan.com/]https://223.5.5.5/dns-query
 [/imhdr.com/]https://223.5.5.5/dns-query
 [/imhuchao.com/]https://223.5.5.5/dns-query
+[/imiaomeng.com/]https://223.5.5.5/dns-query
 [/imibaby.net/]https://223.5.5.5/dns-query
 [/imicang.com/]https://223.5.5.5/dns-query
 [/imicome.com/]https://223.5.5.5/dns-query
@@ -40347,6 +40435,7 @@
 [/inc365.com/]https://223.5.5.5/dns-query
 [/incake.net/]https://223.5.5.5/dns-query
 [/incensechina.com/]https://223.5.5.5/dns-query
+[/inch.red/]https://223.5.5.5/dns-query
 [/inchitech.com/]https://223.5.5.5/dns-query
 [/incker.com/]https://223.5.5.5/dns-query
 [/incloudexpo.com/]https://223.5.5.5/dns-query
@@ -40439,6 +40528,7 @@
 [/initialview.com/]https://223.5.5.5/dns-query
 [/initroot.com/]https://223.5.5.5/dns-query
 [/inja.com/]https://223.5.5.5/dns-query
+[/injectionmachine.com/]https://223.5.5.5/dns-query
 [/injoinic.com/]https://223.5.5.5/dns-query
 [/inkankan.com/]https://223.5.5.5/dns-query
 [/inkanke.com/]https://223.5.5.5/dns-query
@@ -40774,6 +40864,7 @@
 [/iqalliance.org/]https://223.5.5.5/dns-query
 [/iqbuud.lol/]https://223.5.5.5/dns-query
 [/iqcrj.com/]https://223.5.5.5/dns-query
+[/iqdedu.com/]https://223.5.5.5/dns-query
 [/iqdii.com/]https://223.5.5.5/dns-query
 [/iqdnet.com/]https://223.5.5.5/dns-query
 [/iqhmh.com/]https://223.5.5.5/dns-query
@@ -40815,6 +40906,7 @@
 [/iqycamp.com/]https://223.5.5.5/dns-query
 [/ir7c5l0b7ezzh1lq.asia/]https://223.5.5.5/dns-query
 [/irain.in/]https://223.5.5.5/dns-query
+[/iranmahanair.com/]https://223.5.5.5/dns-query
 [/iranshao.com/]https://223.5.5.5/dns-query
 [/iraoping.com/]https://223.5.5.5/dns-query
 [/iraye.net/]https://223.5.5.5/dns-query
@@ -41427,6 +41519,7 @@
 [/iyiou.com/]https://223.5.5.5/dns-query
 [/iyiqi.com/]https://223.5.5.5/dns-query
 [/iyishengyuan.com/]https://223.5.5.5/dns-query
+[/iyitu.com/]https://223.5.5.5/dns-query
 [/iyiyu.com/]https://223.5.5.5/dns-query
 [/iyiyun.com/]https://223.5.5.5/dns-query
 [/iymark.com/]https://223.5.5.5/dns-query
@@ -41519,6 +41612,7 @@
 [/j1998.com/]https://223.5.5.5/dns-query
 [/j1health.com/]https://223.5.5.5/dns-query
 [/j216kb3i487c9h5.buzz/]https://223.5.5.5/dns-query
+[/j2ee.cc/]https://223.5.5.5/dns-query
 [/j3677.com/]https://223.5.5.5/dns-query
 [/j3cx.com/]https://223.5.5.5/dns-query
 [/j4321.com/]https://223.5.5.5/dns-query
@@ -41840,7 +41934,6 @@
 [/jdwxwz.com/]https://223.5.5.5/dns-query
 [/jdwxzp.com/]https://223.5.5.5/dns-query
 [/jdxc.net/]https://223.5.5.5/dns-query
-[/jdxcw.com/]https://223.5.5.5/dns-query
 [/jdxfw.com/]https://223.5.5.5/dns-query
 [/jdxlt.com/]https://223.5.5.5/dns-query
 [/jdxyydf.com/]https://223.5.5.5/dns-query
@@ -41848,6 +41941,7 @@
 [/jdy.com/]https://223.5.5.5/dns-query
 [/jdycdn.com/]https://223.5.5.5/dns-query
 [/jdyfy.com/]https://223.5.5.5/dns-query
+[/jdylb.com/]https://223.5.5.5/dns-query
 [/jdynew.com/]https://223.5.5.5/dns-query
 [/jdyou.com/]https://223.5.5.5/dns-query
 [/jdypf.com/]https://223.5.5.5/dns-query
@@ -41878,7 +41972,9 @@
 [/jeecms.com/]https://223.5.5.5/dns-query
 [/jeee.ltd/]https://223.5.5.5/dns-query
 [/jeejen.com/]https://223.5.5.5/dns-query
+[/jeepay.vip/]https://223.5.5.5/dns-query
 [/jeeplus.org/]https://223.5.5.5/dns-query
+[/jeequan.com/]https://223.5.5.5/dns-query
 [/jeesci.com/]https://223.5.5.5/dns-query
 [/jeeseen.com/]https://223.5.5.5/dns-query
 [/jeesite.com/]https://223.5.5.5/dns-query
@@ -42064,6 +42160,7 @@
 [/jhzhuji.com/]https://223.5.5.5/dns-query
 [/jhzpgw.com/]https://223.5.5.5/dns-query
 [/ji-dian.com/]https://223.5.5.5/dns-query
+[/ji-pai.com/]https://223.5.5.5/dns-query
 [/ji.ci/]https://223.5.5.5/dns-query
 [/ji36.net/]https://223.5.5.5/dns-query
 [/ji7.com/]https://223.5.5.5/dns-query
@@ -42096,7 +42193,6 @@
 [/jiafang168.com/]https://223.5.5.5/dns-query
 [/jiafenqi.com/]https://223.5.5.5/dns-query
 [/jiagedan.com/]https://223.5.5.5/dns-query
-[/jiageip.vip/]https://223.5.5.5/dns-query
 [/jiagle.com/]https://223.5.5.5/dns-query
 [/jiagouyun.com/]https://223.5.5.5/dns-query
 [/jiaguhome.com/]https://223.5.5.5/dns-query
@@ -42215,7 +42311,6 @@
 [/jiangqiaomuye.com/]https://223.5.5.5/dns-query
 [/jiangqimeixue.com/]https://223.5.5.5/dns-query
 [/jiangque.com/]https://223.5.5.5/dns-query
-[/jiangqx.com/]https://223.5.5.5/dns-query
 [/jiangruyi.com/]https://223.5.5.5/dns-query
 [/jiangshancpa.com/]https://223.5.5.5/dns-query
 [/jiangshanlihong.com/]https://223.5.5.5/dns-query
@@ -42269,6 +42364,7 @@
 [/jianloubao.com/]https://223.5.5.5/dns-query
 [/jianlow.com/]https://223.5.5.5/dns-query
 [/jianlw.com/]https://223.5.5.5/dns-query
+[/jianmeng.net/]https://223.5.5.5/dns-query
 [/jianmite.com/]https://223.5.5.5/dns-query
 [/jianmu.run/]https://223.5.5.5/dns-query
 [/jianmuhub.com/]https://223.5.5.5/dns-query
@@ -42443,6 +42539,7 @@
 [/jiazhao.com/]https://223.5.5.5/dns-query
 [/jiazhao7.com/]https://223.5.5.5/dns-query
 [/jiazhi.online/]https://223.5.5.5/dns-query
+[/jiazhichem.com/]https://223.5.5.5/dns-query
 [/jiazhongkeji.com/]https://223.5.5.5/dns-query
 [/jiazhoulvke.com/]https://223.5.5.5/dns-query
 [/jiazhuang.com/]https://223.5.5.5/dns-query
@@ -42908,6 +43005,7 @@
 [/jinqiexia.com/]https://223.5.5.5/dns-query
 [/jinqingdz.com/]https://223.5.5.5/dns-query
 [/jinqunla.com/]https://223.5.5.5/dns-query
+[/jinri.red/]https://223.5.5.5/dns-query
 [/jinridandong.com/]https://223.5.5.5/dns-query
 [/jinridiaoyu.com/]https://223.5.5.5/dns-query
 [/jinriguanzhu.cc/]https://223.5.5.5/dns-query
@@ -42933,6 +43031,7 @@
 [/jinshacapital.com/]https://223.5.5.5/dns-query
 [/jinshakemei.com/]https://223.5.5.5/dns-query
 [/jinshanapi.com/]https://223.5.5.5/dns-query
+[/jinshandaolu.com/]https://223.5.5.5/dns-query
 [/jinshangdai.cc/]https://223.5.5.5/dns-query
 [/jinshangdai.com/]https://223.5.5.5/dns-query
 [/jinshangji.com/]https://223.5.5.5/dns-query
@@ -42958,6 +43057,7 @@
 [/jinsiwei.com/]https://223.5.5.5/dns-query
 [/jinsuizhongye.com/]https://223.5.5.5/dns-query
 [/jintaimall.com/]https://223.5.5.5/dns-query
+[/jintajx.com/]https://223.5.5.5/dns-query
 [/jinti.com/]https://223.5.5.5/dns-query
 [/jintiango.com/]https://223.5.5.5/dns-query
 [/jintianjihao.com/]https://223.5.5.5/dns-query
@@ -43264,6 +43364,7 @@
 [/jj57365.cc/]https://223.5.5.5/dns-query
 [/jj59.com/]https://223.5.5.5/dns-query
 [/jj831.com/]https://223.5.5.5/dns-query
+[/jj99.icu/]https://223.5.5.5/dns-query
 [/jjbang.com/]https://223.5.5.5/dns-query
 [/jjbank.net/]https://223.5.5.5/dns-query
 [/jjbbs.com/]https://223.5.5.5/dns-query
@@ -44040,6 +44141,7 @@
 [/jsnx.net/]https://223.5.5.5/dns-query
 [/jsnxs.com/]https://223.5.5.5/dns-query
 [/jsocr.com/]https://223.5.5.5/dns-query
+[/json.icu/]https://223.5.5.5/dns-query
 [/jsonin.com/]https://223.5.5.5/dns-query
 [/jsososo.com/]https://223.5.5.5/dns-query
 [/jsp158.com/]https://223.5.5.5/dns-query
@@ -44131,6 +44233,7 @@
 [/jsyghw.com/]https://223.5.5.5/dns-query
 [/jsyhxl.com/]https://223.5.5.5/dns-query
 [/jsyinba.com/]https://223.5.5.5/dns-query
+[/jsyixin.com/]https://223.5.5.5/dns-query
 [/jsyks.com/]https://223.5.5.5/dns-query
 [/jsypj.com/]https://223.5.5.5/dns-query
 [/jsysafe.com/]https://223.5.5.5/dns-query
@@ -44681,6 +44784,7 @@
 [/jxwmanage.com/]https://223.5.5.5/dns-query
 [/jxwmsj.com/]https://223.5.5.5/dns-query
 [/jxwz.net/]https://223.5.5.5/dns-query
+[/jxx7.com/]https://223.5.5.5/dns-query
 [/jxxdf.com/]https://223.5.5.5/dns-query
 [/jxxfzx.com/]https://223.5.5.5/dns-query
 [/jxxhdn.com/]https://223.5.5.5/dns-query
@@ -44735,6 +44839,7 @@
 [/jygyl.com/]https://223.5.5.5/dns-query
 [/jygz.com/]https://223.5.5.5/dns-query
 [/jyh007.com/]https://223.5.5.5/dns-query
+[/jyhcd.com/]https://223.5.5.5/dns-query
 [/jyhmz.com/]https://223.5.5.5/dns-query
 [/jyhome.com/]https://223.5.5.5/dns-query
 [/jyhwcl.com/]https://223.5.5.5/dns-query
@@ -44863,7 +44968,6 @@
 [/jzsxinyudianqi.com/]https://223.5.5.5/dns-query
 [/jzsyishu.com/]https://223.5.5.5/dns-query
 [/jzszdq.com/]https://223.5.5.5/dns-query
-[/jztdc.com/]https://223.5.5.5/dns-query
 [/jztey.com/]https://223.5.5.5/dns-query
 [/jztmgy.com/]https://223.5.5.5/dns-query
 [/jztsjx.com/]https://223.5.5.5/dns-query
@@ -45399,6 +45503,7 @@
 [/keepnight.com/]https://223.5.5.5/dns-query
 [/keepyoga.com/]https://223.5.5.5/dns-query
 [/keerdapower.com/]https://223.5.5.5/dns-query
+[/keerqinmuseum.com/]https://223.5.5.5/dns-query
 [/keerworld.com/]https://223.5.5.5/dns-query
 [/keetalks.com/]https://223.5.5.5/dns-query
 [/keewin.com/]https://223.5.5.5/dns-query
@@ -46152,6 +46257,7 @@
 [/kr126.com/]https://223.5.5.5/dns-query
 [/krahag.com/]https://223.5.5.5/dns-query
 [/krbattery.com/]https://223.5.5.5/dns-query
+[/krbk.com/]https://223.5.5.5/dns-query
 [/krd168.com/]https://223.5.5.5/dns-query
 [/krdrama.com/]https://223.5.5.5/dns-query
 [/krenzheng.com/]https://223.5.5.5/dns-query
@@ -46199,6 +46305,7 @@
 [/kshaoteng.com/]https://223.5.5.5/dns-query
 [/kshengjin.com/]https://223.5.5.5/dns-query
 [/kshot.com/]https://223.5.5.5/dns-query
+[/kshtxf.com/]https://223.5.5.5/dns-query
 [/kshuwx.com/]https://223.5.5.5/dns-query
 [/ksjgs.com/]https://223.5.5.5/dns-query
 [/ksjhaoka.com/]https://223.5.5.5/dns-query
@@ -46381,9 +46488,11 @@
 [/kuaipandata.com/]https://223.5.5.5/dns-query
 [/kuaipao.run/]https://223.5.5.5/dns-query
 [/kuaipao8.com/]https://223.5.5.5/dns-query
+[/kuaipianer.com/]https://223.5.5.5/dns-query
 [/kuaipiyun.com/]https://223.5.5.5/dns-query
 [/kuaipng.com/]https://223.5.5.5/dns-query
 [/kuaiqin.com/]https://223.5.5.5/dns-query
+[/kuairen88.com/]https://223.5.5.5/dns-query
 [/kuaishangkf.com/]https://223.5.5.5/dns-query
 [/kuaishebao.com/]https://223.5.5.5/dns-query
 [/kuaishiedu.com/]https://223.5.5.5/dns-query
@@ -47125,6 +47234,7 @@
 [/lanzhuwh.com/]https://223.5.5.5/dns-query
 [/lanzn.com/]https://223.5.5.5/dns-query
 [/lanzog.com/]https://223.5.5.5/dns-query
+[/lanzong6.com/]https://223.5.5.5/dns-query
 [/lanzou.com/]https://223.5.5.5/dns-query
 [/lanzoub.com/]https://223.5.5.5/dns-query
 [/lanzoue.com/]https://223.5.5.5/dns-query
@@ -47978,6 +48088,7 @@
 [/lgdisplayproduct.com/]https://223.5.5.5/dns-query
 [/lgdxtech.com/]https://223.5.5.5/dns-query
 [/lgexam.com/]https://223.5.5.5/dns-query
+[/lghd111.com/]https://223.5.5.5/dns-query
 [/lghlncl.com/]https://223.5.5.5/dns-query
 [/lgimg.com/]https://223.5.5.5/dns-query
 [/lglmf.com/]https://223.5.5.5/dns-query
@@ -48195,6 +48306,7 @@
 [/libreofficechina.org/]https://223.5.5.5/dns-query
 [/libsou.com/]https://223.5.5.5/dns-query
 [/libssh.com/]https://223.5.5.5/dns-query
+[/libsys.net/]https://223.5.5.5/dns-query
 [/libtop.com/]https://223.5.5.5/dns-query
 [/libvideo.com/]https://223.5.5.5/dns-query
 [/lic-bcbc.com/]https://223.5.5.5/dns-query
@@ -48689,6 +48801,7 @@
 [/lisdn.com/]https://223.5.5.5/dns-query
 [/lisheng.gold/]https://223.5.5.5/dns-query
 [/lishengstone.com/]https://223.5.5.5/dns-query
+[/lishi-test.com/]https://223.5.5.5/dns-query
 [/lishi6.com/]https://223.5.5.5/dns-query
 [/lishi7.com/]https://223.5.5.5/dns-query
 [/lishibk.com/]https://223.5.5.5/dns-query
@@ -49563,6 +49676,7 @@
 [/lqzwsqy.com/]https://223.5.5.5/dns-query
 [/lr-amm.com/]https://223.5.5.5/dns-query
 [/lr-link.com/]https://223.5.5.5/dns-query
+[/lr8888.com/]https://223.5.5.5/dns-query
 [/lrc99.com/]https://223.5.5.5/dns-query
 [/lrcb.net/]https://223.5.5.5/dns-query
 [/lrcku.com/]https://223.5.5.5/dns-query
@@ -49653,7 +49767,6 @@
 [/lsxz.org/]https://223.5.5.5/dns-query
 [/lsyart.com/]https://223.5.5.5/dns-query
 [/lsyhh.com/]https://223.5.5.5/dns-query
-[/lsywtc.com/]https://223.5.5.5/dns-query
 [/lszj.com/]https://223.5.5.5/dns-query
 [/lszjyj.com/]https://223.5.5.5/dns-query
 [/lsznkyy.com/]https://223.5.5.5/dns-query
@@ -49801,6 +49914,7 @@
 [/lulinux.com/]https://223.5.5.5/dns-query
 [/lulu77.com/]https://223.5.5.5/dns-query
 [/lulufind.com/]https://223.5.5.5/dns-query
+[/luluhong.com/]https://223.5.5.5/dns-query
 [/luluju.com/]https://223.5.5.5/dns-query
 [/lum114.com/]https://223.5.5.5/dns-query
 [/lumai.net/]https://223.5.5.5/dns-query
@@ -50754,6 +50868,7 @@
 [/maiyanju.com/]https://223.5.5.5/dns-query
 [/maiyaole.com/]https://223.5.5.5/dns-query
 [/maiyuesoft.com/]https://223.5.5.5/dns-query
+[/maizer.pw/]https://223.5.5.5/dns-query
 [/maizhi.com/]https://223.5.5.5/dns-query
 [/maizhuanbao.com/]https://223.5.5.5/dns-query
 [/maiziedu.com/]https://223.5.5.5/dns-query
@@ -50938,6 +51053,8 @@
 [/manyoo.net/]https://223.5.5.5/dns-query
 [/manyou.com/]https://223.5.5.5/dns-query
 [/manyoujing.net/]https://223.5.5.5/dns-query
+[/manyoukeji2024.com/]https://223.5.5.5/dns-query
+[/manyoumao.com/]https://223.5.5.5/dns-query
 [/manyupay.com/]https://223.5.5.5/dns-query
 [/manzhan.com/]https://223.5.5.5/dns-query
 [/manzu365.com/]https://223.5.5.5/dns-query
@@ -51197,7 +51314,6 @@
 [/mbalib.com/]https://223.5.5.5/dns-query
 [/mbalunwen.net/]https://223.5.5.5/dns-query
 [/mbanggo.com/]https://223.5.5.5/dns-query
-[/mbangong.com/]https://223.5.5.5/dns-query
 [/mbaobao.com/]https://223.5.5.5/dns-query
 [/mbaoxian.net/]https://223.5.5.5/dns-query
 [/mbazl.com/]https://223.5.5.5/dns-query
@@ -51351,6 +51467,7 @@
 [/mediastory.cc/]https://223.5.5.5/dns-query
 [/mediatek.com/]https://223.5.5.5/dns-query
 [/mediav.com/]https://223.5.5.5/dns-query
+[/mediavorous.com/]https://223.5.5.5/dns-query
 [/mediaxinan.com/]https://223.5.5.5/dns-query
 [/medicalqc.com/]https://223.5.5.5/dns-query
 [/mediecogroup.com/]https://223.5.5.5/dns-query
@@ -51496,7 +51613,6 @@
 [/meili-inc.com/]https://223.5.5.5/dns-query
 [/meili-oh.com/]https://223.5.5.5/dns-query
 [/meili43.com/]https://223.5.5.5/dns-query
-[/meiliantang.com/]https://223.5.5.5/dns-query
 [/meilibaobao.com/]https://223.5.5.5/dns-query
 [/meilichengren.com/]https://223.5.5.5/dns-query
 [/meilidongnanya.com/]https://223.5.5.5/dns-query
@@ -52583,6 +52699,7 @@
 [/mmmglobalgroup.com/]https://223.5.5.5/dns-query
 [/mmmkkm.com/]https://223.5.5.5/dns-query
 [/mmmmmmm.com/]https://223.5.5.5/dns-query
+[/mmmnote.com/]https://223.5.5.5/dns-query
 [/mmmqqm.com/]https://223.5.5.5/dns-query
 [/mmmrz.com/]https://223.5.5.5/dns-query
 [/mmmtech.com/]https://223.5.5.5/dns-query
@@ -52713,6 +52830,7 @@
 [/modianverse.com/]https://223.5.5.5/dns-query
 [/modooplay.com/]https://223.5.5.5/dns-query
 [/modouwangluo.com/]https://223.5.5.5/dns-query
+[/modstart.com/]https://223.5.5.5/dns-query
 [/modulesocean.com/]https://223.5.5.5/dns-query
 [/moduyun.com/]https://223.5.5.5/dns-query
 [/modxz.com/]https://223.5.5.5/dns-query
@@ -53194,6 +53312,7 @@
 [/mssjz.com/]https://223.5.5.5/dns-query
 [/msstatic.com/]https://223.5.5.5/dns-query
 [/mst-jc.com/]https://223.5.5.5/dns-query
+[/mstatik.com/]https://223.5.5.5/dns-query
 [/mstchina.com/]https://223.5.5.5/dns-query
 [/msudz.com/]https://223.5.5.5/dns-query
 [/msunland.com/]https://223.5.5.5/dns-query
@@ -53646,6 +53765,7 @@
 [/myjob500.com/]https://223.5.5.5/dns-query
 [/myjoit.com/]https://223.5.5.5/dns-query
 [/myjoy777.com/]https://223.5.5.5/dns-query
+[/myjujing.com/]https://223.5.5.5/dns-query
 [/myjzs666.com/]https://223.5.5.5/dns-query
 [/myk3.com/]https://223.5.5.5/dns-query
 [/mykqyy.com/]https://223.5.5.5/dns-query
@@ -54012,6 +54132,7 @@
 [/nanwangdianlanjt.com/]https://223.5.5.5/dns-query
 [/nanwoo.com/]https://223.5.5.5/dns-query
 [/nanxingmac.com/]https://223.5.5.5/dns-query
+[/nanxinwang.com/]https://223.5.5.5/dns-query
 [/nanxueqx.com/]https://223.5.5.5/dns-query
 [/nanyangcable.com/]https://223.5.5.5/dns-query
 [/nanyangzb.com/]https://223.5.5.5/dns-query
@@ -54040,6 +54161,7 @@
 [/nas-ya.com/]https://223.5.5.5/dns-query
 [/nasack.net/]https://223.5.5.5/dns-query
 [/nase.tech/]https://223.5.5.5/dns-query
+[/nasge.com/]https://223.5.5.5/dns-query
 [/nasgetinfo.com/]https://223.5.5.5/dns-query
 [/nashwork.com/]https://223.5.5.5/dns-query
 [/nasimobi.com/]https://223.5.5.5/dns-query
@@ -54519,6 +54641,7 @@
 [/nexus.dell.com/]https://223.5.5.5/dns-query
 [/nexushd.org/]https://223.5.5.5/dns-query
 [/neyuan.com/]https://223.5.5.5/dns-query
+[/nf.video/]https://223.5.5.5/dns-query
 [/nf108.com/]https://223.5.5.5/dns-query
 [/nfc315.com/]https://223.5.5.5/dns-query
 [/nfcic.com/]https://223.5.5.5/dns-query
@@ -54632,6 +54755,7 @@
 [/nicsbuy.com/]https://223.5.5.5/dns-query
 [/nicwind.com/]https://223.5.5.5/dns-query
 [/nie.io/]https://223.5.5.5/dns-query
+[/niegobrand.com/]https://223.5.5.5/dns-query
 [/nielsenccdata.tv/]https://223.5.5.5/dns-query
 [/nies.org/]https://223.5.5.5/dns-query
 [/niexiaotao.com/]https://223.5.5.5/dns-query
@@ -54705,10 +54829,8 @@
 [/nitaitag.com/]https://223.5.5.5/dns-query
 [/nittoseiki-cn.com/]https://223.5.5.5/dns-query
 [/nitutu.com/]https://223.5.5.5/dns-query
-[/niu-ba.com/]https://223.5.5.5/dns-query
 [/niu.com/]https://223.5.5.5/dns-query
 [/niua.com/]https://223.5.5.5/dns-query
-[/niuaa1688.com/]https://223.5.5.5/dns-query
 [/niuacc.com/]https://223.5.5.5/dns-query
 [/niuaniua.com/]https://223.5.5.5/dns-query
 [/niuap.com/]https://223.5.5.5/dns-query
@@ -54840,6 +54962,7 @@
 [/njodu.com/]https://223.5.5.5/dns-query
 [/njqxrc.com/]https://223.5.5.5/dns-query
 [/njrx.cc/]https://223.5.5.5/dns-query
+[/njsech.net/]https://223.5.5.5/dns-query
 [/njsenwo.com/]https://223.5.5.5/dns-query
 [/njsjz.com/]https://223.5.5.5/dns-query
 [/njsujing.com/]https://223.5.5.5/dns-query
@@ -54917,6 +55040,7 @@
 [/nmghytd.com/]https://223.5.5.5/dns-query
 [/nmgjcy.com/]https://223.5.5.5/dns-query
 [/nmgjdxy.com/]https://223.5.5.5/dns-query
+[/nmgjyzh.com/]https://223.5.5.5/dns-query
 [/nmgkjzx.com/]https://223.5.5.5/dns-query
 [/nmglawyer.com/]https://223.5.5.5/dns-query
 [/nmgmzys.com/]https://223.5.5.5/dns-query
@@ -55133,6 +55257,7 @@
 [/nnkeyuan.com/]https://223.5.5.5/dns-query
 [/nnkgqxsly.com/]https://223.5.5.5/dns-query
 [/nnkhjq.com/]https://223.5.5.5/dns-query
+[/nnkin.com/]https://223.5.5.5/dns-query
 [/nnkqfs.com/]https://223.5.5.5/dns-query
 [/nnkxnz.com/]https://223.5.5.5/dns-query
 [/nnlanfang.com/]https://223.5.5.5/dns-query
@@ -55314,7 +55439,6 @@
 [/nnysart.com/]https://223.5.5.5/dns-query
 [/nnytty.com/]https://223.5.5.5/dns-query
 [/nnyunying.com/]https://223.5.5.5/dns-query
-[/nnyxqy.net/]https://223.5.5.5/dns-query
 [/nnyy17.com/]https://223.5.5.5/dns-query
 [/nnyypc.com/]https://223.5.5.5/dns-query
 [/nnyyq.com/]https://223.5.5.5/dns-query
@@ -55836,6 +55960,7 @@
 [/o--o.win/]https://223.5.5.5/dns-query
 [/o-netcom.com/]https://223.5.5.5/dns-query
 [/o-star.cc/]https://223.5.5.5/dns-query
+[/o0310o.com/]https://223.5.5.5/dns-query
 [/o0o0.club/]https://223.5.5.5/dns-query
 [/o0o0o0o0o.one/]https://223.5.5.5/dns-query
 [/o0o0w.com/]https://223.5.5.5/dns-query
@@ -56117,6 +56242,7 @@
 [/okooo.com/]https://223.5.5.5/dns-query
 [/okoooimg.com/]https://223.5.5.5/dns-query
 [/okpig.com/]https://223.5.5.5/dns-query
+[/okplife.com/]https://223.5.5.5/dns-query
 [/okpush.com/]https://223.5.5.5/dns-query
 [/okrecovery.com/]https://223.5.5.5/dns-query
 [/oks.ltd/]https://223.5.5.5/dns-query
@@ -56260,7 +56386,6 @@
 [/oneway.mobi/]https://223.5.5.5/dns-query
 [/onewedesign.com/]https://223.5.5.5/dns-query
 [/onewo.com/]https://223.5.5.5/dns-query
-[/onewrt.com/]https://223.5.5.5/dns-query
 [/onewsimg.com/]https://223.5.5.5/dns-query
 [/onewsvod.com/]https://223.5.5.5/dns-query
 [/onexinli.com/]https://223.5.5.5/dns-query
@@ -56340,12 +56465,14 @@
 [/ooxxc.com/]https://223.5.5.5/dns-query
 [/oozfktwl.sbs/]https://223.5.5.5/dns-query
 [/op86.net/]https://223.5.5.5/dns-query
+[/opadlink.com/]https://223.5.5.5/dns-query
 [/opahnet.com/]https://223.5.5.5/dns-query
 [/opark.com/]https://223.5.5.5/dns-query
 [/opatseg.com/]https://223.5.5.5/dns-query
 [/opcool.com/]https://223.5.5.5/dns-query
 [/opczdoors.com/]https://223.5.5.5/dns-query
 [/opdown.com/]https://223.5.5.5/dns-query
+[/open-ct.com/]https://223.5.5.5/dns-query
 [/open-douyin.com/]https://223.5.5.5/dns-query
 [/open-falcon.com/]https://223.5.5.5/dns-query
 [/open-falcon.org/]https://223.5.5.5/dns-query
@@ -56504,7 +56631,6 @@
 [/orihard.com/]https://223.5.5.5/dns-query
 [/oritive.com/]https://223.5.5.5/dns-query
 [/orleto.com/]https://223.5.5.5/dns-query
-[/ornglad.com/]https://223.5.5.5/dns-query
 [/orologiomgitaly.com/]https://223.5.5.5/dns-query
 [/oromaster.com/]https://223.5.5.5/dns-query
 [/orsoon.com/]https://223.5.5.5/dns-query
@@ -56816,6 +56942,7 @@
 [/paat.com/]https://223.5.5.5/dns-query
 [/pabulika.com/]https://223.5.5.5/dns-query
 [/pacdn.com/]https://223.5.5.5/dns-query
+[/pacebms.com/]https://223.5.5.5/dns-query
 [/pacfc.com/]https://223.5.5.5/dns-query
 [/pacgatelaw.com/]https://223.5.5.5/dns-query
 [/pacificchinaaero.com/]https://223.5.5.5/dns-query
@@ -57003,6 +57130,7 @@
 [/paochefang.com/]https://223.5.5.5/dns-query
 [/paodoo.com/]https://223.5.5.5/dns-query
 [/paojiao.com/]https://223.5.5.5/dns-query
+[/paoka.com/]https://223.5.5.5/dns-query
 [/paokucloud.com/]https://223.5.5.5/dns-query
 [/paolanhuanbao.com/]https://223.5.5.5/dns-query
 [/paomo.com/]https://223.5.5.5/dns-query
@@ -57211,6 +57339,7 @@
 [/pcutfiww.com/]https://223.5.5.5/dns-query
 [/pcviva.com/]https://223.5.5.5/dns-query
 [/pcw365.com/]https://223.5.5.5/dns-query
+[/pcweb3.com/]https://223.5.5.5/dns-query
 [/pcwenti.com/]https://223.5.5.5/dns-query
 [/pcwgu.com/]https://223.5.5.5/dns-query
 [/pcwl.com/]https://223.5.5.5/dns-query
@@ -57310,6 +57439,7 @@
 [/peiluming.com/]https://223.5.5.5/dns-query
 [/peiluyou.com/]https://223.5.5.5/dns-query
 [/peise.net/]https://223.5.5.5/dns-query
+[/peisebiao.com/]https://223.5.5.5/dns-query
 [/peixianedu.com/]https://223.5.5.5/dns-query
 [/peixiang.com/]https://223.5.5.5/dns-query
 [/peixinkj.com/]https://223.5.5.5/dns-query
@@ -57401,6 +57531,7 @@
 [/petalmail.com/]https://223.5.5.5/dns-query
 [/peter-zhou.com/]https://223.5.5.5/dns-query
 [/petersonlian.com/]https://223.5.5.5/dns-query
+[/petgugu.com/]https://223.5.5.5/dns-query
 [/petkit.com/]https://223.5.5.5/dns-query
 [/petkoo.com/]https://223.5.5.5/dns-query
 [/petktasia.com/]https://223.5.5.5/dns-query
@@ -57682,7 +57813,6 @@
 [/pinganyun.com/]https://223.5.5.5/dns-query
 [/pinganzhengxin.com/]https://223.5.5.5/dns-query
 [/pinganzhengyang.com/]https://223.5.5.5/dns-query
-[/pingbokeji.com/]https://223.5.5.5/dns-query
 [/pingcap.com/]https://223.5.5.5/dns-query
 [/pingce.net/]https://223.5.5.5/dns-query
 [/pingchuangyl.com/]https://223.5.5.5/dns-query
@@ -58212,6 +58342,7 @@
 [/ppfw.org/]https://223.5.5.5/dns-query
 [/ppgame.com/]https://223.5.5.5/dns-query
 [/ppgg.in/]https://223.5.5.5/dns-query
+[/ppgslb.com/]https://223.5.5.5/dns-query
 [/pphcn.sbs/]https://223.5.5.5/dns-query
 [/pphimalayanrt.com/]https://223.5.5.5/dns-query
 [/ppio.cloud/]https://223.5.5.5/dns-query
@@ -58241,6 +58372,7 @@
 [/pppoevps.com/]https://223.5.5.5/dns-query
 [/pppoo.com/]https://223.5.5.5/dns-query
 [/ppppic.com/]https://223.5.5.5/dns-query
+[/ppppoints.com/]https://223.5.5.5/dns-query
 [/ppqq.net/]https://223.5.5.5/dns-query
 [/pps.tv/]https://223.5.5.5/dns-query
 [/ppsao.com/]https://223.5.5.5/dns-query
@@ -58390,6 +58522,7 @@
 [/psc4d.com/]https://223.5.5.5/dns-query
 [/pscddos.com/]https://223.5.5.5/dns-query
 [/psd.net/]https://223.5.5.5/dns-query
+[/psd1403.com/]https://223.5.5.5/dns-query
 [/psd8.com/]https://223.5.5.5/dns-query
 [/psdee.com/]https://223.5.5.5/dns-query
 [/psdiv.com/]https://223.5.5.5/dns-query
@@ -59089,6 +59222,7 @@
 [/qiancha.cc/]https://223.5.5.5/dns-query
 [/qianchengriben.com/]https://223.5.5.5/dns-query
 [/qianchiyun.com/]https://223.5.5.5/dns-query
+[/qianchuan.ltd/]https://223.5.5.5/dns-query
 [/qiancipai.com/]https://223.5.5.5/dns-query
 [/qiandao.com/]https://223.5.5.5/dns-query
 [/qiandaoapp.com/]https://223.5.5.5/dns-query
@@ -59122,6 +59256,7 @@
 [/qiangtou.net/]https://223.5.5.5/dns-query
 [/qiangungun.com/]https://223.5.5.5/dns-query
 [/qianguyihao.com/]https://223.5.5.5/dns-query
+[/qiangyinli.com/]https://223.5.5.5/dns-query
 [/qianhai12315.com/]https://223.5.5.5/dns-query
 [/qianhaiaiaitie.com/]https://223.5.5.5/dns-query
 [/qianhaibs.com/]https://223.5.5.5/dns-query
@@ -59199,6 +59334,7 @@
 [/qianyan001.com/]https://223.5.5.5/dns-query
 [/qianyanchefang.com/]https://223.5.5.5/dns-query
 [/qianye88.com/]https://223.5.5.5/dns-query
+[/qianyikeji.com/]https://223.5.5.5/dns-query
 [/qianyuangx.com/]https://223.5.5.5/dns-query
 [/qianyuewenhua.xyz/]https://223.5.5.5/dns-query
 [/qianyuwang.com/]https://223.5.5.5/dns-query
@@ -59526,6 +59662,7 @@
 [/qingstor.com/]https://223.5.5.5/dns-query
 [/qingsucai.com/]https://223.5.5.5/dns-query
 [/qingtaoke.com/]https://223.5.5.5/dns-query
+[/qingteng-inc.com/]https://223.5.5.5/dns-query
 [/qingteng168.com/]https://223.5.5.5/dns-query
 [/qingtengzhilian.com/]https://223.5.5.5/dns-query
 [/qingtian16265.com/]https://223.5.5.5/dns-query
@@ -59848,7 +59985,6 @@
 [/qlotc.net/]https://223.5.5.5/dns-query
 [/qlrc.com/]https://223.5.5.5/dns-query
 [/qls.fun/]https://223.5.5.5/dns-query
-[/qlspx.com/]https://223.5.5.5/dns-query
 [/qlteacher.com/]https://223.5.5.5/dns-query
 [/qluu.com/]https://223.5.5.5/dns-query
 [/qlwuji.com/]https://223.5.5.5/dns-query
@@ -60684,6 +60820,7 @@
 [/quzhuanxiang.com/]https://223.5.5.5/dns-query
 [/quzz88.com/]https://223.5.5.5/dns-query
 [/quzzgames.com/]https://223.5.5.5/dns-query
+[/qv0ns3.com/]https://223.5.5.5/dns-query
 [/qvdv.net/]https://223.5.5.5/dns-query
 [/qvip.net/]https://223.5.5.5/dns-query
 [/qvkanwen.com/]https://223.5.5.5/dns-query
@@ -61342,6 +61479,7 @@
 [/rendoc.com/]https://223.5.5.5/dns-query
 [/renegade-project.org/]https://223.5.5.5/dns-query
 [/renfutm.com/]https://223.5.5.5/dns-query
+[/renguokeji.com/]https://223.5.5.5/dns-query
 [/renhe888.com/]https://223.5.5.5/dns-query
 [/renhence.com/]https://223.5.5.5/dns-query
 [/renhuaicode.com/]https://223.5.5.5/dns-query
@@ -61589,7 +61727,6 @@
 [/risesoft.net/]https://223.5.5.5/dns-query
 [/riseyears.com/]https://223.5.5.5/dns-query
 [/risfond.com/]https://223.5.5.5/dns-query
-[/rishao.com/]https://223.5.5.5/dns-query
 [/rishiqing.com/]https://223.5.5.5/dns-query
 [/rishuncn.com/]https://223.5.5.5/dns-query
 [/rising-eo.com/]https://223.5.5.5/dns-query
@@ -61802,6 +61939,7 @@
 [/rongyan.cc/]https://223.5.5.5/dns-query
 [/rongyanshe.com/]https://223.5.5.5/dns-query
 [/rongyao666.com/]https://223.5.5.5/dns-query
+[/rongyaozhiguang.com/]https://223.5.5.5/dns-query
 [/rongyi.com/]https://223.5.5.5/dns-query
 [/rongyilian.net/]https://223.5.5.5/dns-query
 [/rongyimao.com/]https://223.5.5.5/dns-query
@@ -61876,6 +62014,7 @@
 [/royotech.com/]https://223.5.5.5/dns-query
 [/rp-field.com/]https://223.5.5.5/dns-query
 [/rp-pet.com/]https://223.5.5.5/dns-query
+[/rp76en.com/]https://223.5.5.5/dns-query
 [/rpa-cn.com/]https://223.5.5.5/dns-query
 [/rpaii.com/]https://223.5.5.5/dns-query
 [/rpfieldcdn.com/]https://223.5.5.5/dns-query
@@ -62029,6 +62168,8 @@
 [/ruanman.net/]https://223.5.5.5/dns-query
 [/ruanmei.com/]https://223.5.5.5/dns-query
 [/ruanmou.net/]https://223.5.5.5/dns-query
+[/ruansky.com/]https://223.5.5.5/dns-query
+[/ruansky.net/]https://223.5.5.5/dns-query
 [/ruantiku.com/]https://223.5.5.5/dns-query
 [/ruanwen.la/]https://223.5.5.5/dns-query
 [/ruanwen.tv/]https://223.5.5.5/dns-query
@@ -62312,6 +62453,7 @@
 [/rzkj999.com/]https://223.5.5.5/dns-query
 [/rzline.com/]https://223.5.5.5/dns-query
 [/rzltech.com/]https://223.5.5.5/dns-query
+[/rzlydcw.com/]https://223.5.5.5/dns-query
 [/rzok.net/]https://223.5.5.5/dns-query
 [/rzsdf.shop/]https://223.5.5.5/dns-query
 [/rzspx.com/]https://223.5.5.5/dns-query
@@ -62385,6 +62527,7 @@
 [/saferises.com/]https://223.5.5.5/dns-query
 [/safetyimg.com/]https://223.5.5.5/dns-query
 [/safetystatic.com/]https://223.5.5.5/dns-query
+[/safetyvod.com/]https://223.5.5.5/dns-query
 [/sagetrc.com/]https://223.5.5.5/dns-query
 [/sagigame.net/]https://223.5.5.5/dns-query
 [/sahcqmu.com/]https://223.5.5.5/dns-query
@@ -62889,6 +63032,7 @@
 [/scsjnxh.org/]https://223.5.5.5/dns-query
 [/scsjsd.com/]https://223.5.5.5/dns-query
 [/scsltjt.com/]https://223.5.5.5/dns-query
+[/scsmzy.com/]https://223.5.5.5/dns-query
 [/scsstjt.com/]https://223.5.5.5/dns-query
 [/scsuhuigy.com/]https://223.5.5.5/dns-query
 [/scsx2016.org/]https://223.5.5.5/dns-query
@@ -62939,7 +63083,6 @@
 [/sczgzb.com/]https://223.5.5.5/dns-query
 [/sczht.com/]https://223.5.5.5/dns-query
 [/sczl123.com/]https://223.5.5.5/dns-query
-[/sczprc.com/]https://223.5.5.5/dns-query
 [/sczshz.net/]https://223.5.5.5/dns-query
 [/sczsie.com/]https://223.5.5.5/dns-query
 [/sczsxx.com/]https://223.5.5.5/dns-query
@@ -63117,6 +63260,7 @@
 [/sdqmy.com/]https://223.5.5.5/dns-query
 [/sdqoi2d.com/]https://223.5.5.5/dns-query
 [/sdqsqx.com/]https://223.5.5.5/dns-query
+[/sdqu.com/]https://223.5.5.5/dns-query
 [/sdrcu.com/]https://223.5.5.5/dns-query
 [/sdrdgw.com/]https://223.5.5.5/dns-query
 [/sdrongya.com/]https://223.5.5.5/dns-query
@@ -63197,6 +63341,7 @@
 [/sea-gullmall.com/]https://223.5.5.5/dns-query
 [/seacatcry.com/]https://223.5.5.5/dns-query
 [/seacxy.com/]https://223.5.5.5/dns-query
+[/seafrom.com/]https://223.5.5.5/dns-query
 [/seagulllocker.com/]https://223.5.5.5/dns-query
 [/seagullwatch.com/]https://223.5.5.5/dns-query
 [/seagullwatches.com/]https://223.5.5.5/dns-query
@@ -63454,6 +63599,7 @@
 [/servilabmedical.com/]https://223.5.5.5/dns-query
 [/sesamestreetenglishchina.com/]https://223.5.5.5/dns-query
 [/sesamewatermelon.com/]https://223.5.5.5/dns-query
+[/sescar.com/]https://223.5.5.5/dns-query
 [/seseds.com/]https://223.5.5.5/dns-query
 [/sesier.com/]https://223.5.5.5/dns-query
 [/setb2b.com/]https://223.5.5.5/dns-query
@@ -63716,6 +63862,7 @@
 [/shangame.com/]https://223.5.5.5/dns-query
 [/shanganzixun.com/]https://223.5.5.5/dns-query
 [/shangate.com/]https://223.5.5.5/dns-query
+[/shangbanzugroup.com/]https://223.5.5.5/dns-query
 [/shangbaolai.com/]https://223.5.5.5/dns-query
 [/shangbaowood.com/]https://223.5.5.5/dns-query
 [/shangbiao.com/]https://223.5.5.5/dns-query
@@ -63969,6 +64116,7 @@
 [/sharkshopping.com/]https://223.5.5.5/dns-query
 [/sharpbai.com/]https://223.5.5.5/dns-query
 [/sharpmobi.com/]https://223.5.5.5/dns-query
+[/sharpon.com/]https://223.5.5.5/dns-query
 [/shartu.com/]https://223.5.5.5/dns-query
 [/shasx.com/]https://223.5.5.5/dns-query
 [/shavingbrush-china.com/]https://223.5.5.5/dns-query
@@ -64078,6 +64226,7 @@
 [/shellsec.com/]https://223.5.5.5/dns-query
 [/shelwee.com/]https://223.5.5.5/dns-query
 [/shemini.com/]https://223.5.5.5/dns-query
+[/shen-nao.com/]https://223.5.5.5/dns-query
 [/shen321.com/]https://223.5.5.5/dns-query
 [/shenanhui.com/]https://223.5.5.5/dns-query
 [/shenbinghang.com/]https://223.5.5.5/dns-query
@@ -64237,7 +64386,7 @@
 [/shenzhenbianhua.com/]https://223.5.5.5/dns-query
 [/shenzhenjia.net/]https://223.5.5.5/dns-query
 [/shenzhenlianhua.com/]https://223.5.5.5/dns-query
-[/shenzhenmarathon.org/]https://223.5.5.5/dns-query
+[/shenzhenmakerfaire.com/]https://223.5.5.5/dns-query
 [/shenzhenshouxin.com/]https://223.5.5.5/dns-query
 [/shenzhentong.com/]https://223.5.5.5/dns-query
 [/shenzhentour.com/]https://223.5.5.5/dns-query
@@ -64600,6 +64749,7 @@
 [/shlungu.com/]https://223.5.5.5/dns-query
 [/shmama.net/]https://223.5.5.5/dns-query
 [/shmarathon.com/]https://223.5.5.5/dns-query
+[/shmaur.com/]https://223.5.5.5/dns-query
 [/shmds.com/]https://223.5.5.5/dns-query
 [/shmedia.tech/]https://223.5.5.5/dns-query
 [/shmengyang.com/]https://223.5.5.5/dns-query
@@ -64963,6 +65113,7 @@
 [/shuimuyulin.com/]https://223.5.5.5/dns-query
 [/shuini.biz/]https://223.5.5.5/dns-query
 [/shuipingce.com/]https://223.5.5.5/dns-query
+[/shuipo.com/]https://223.5.5.5/dns-query
 [/shuisj.com/]https://223.5.5.5/dns-query
 [/shuitexxkj.com/]https://223.5.5.5/dns-query
 [/shuiwushi.net/]https://223.5.5.5/dns-query
@@ -65044,6 +65195,7 @@
 [/shuobao.com/]https://223.5.5.5/dns-query
 [/shuocdn.com/]https://223.5.5.5/dns-query
 [/shuodedui.com/]https://223.5.5.5/dns-query
+[/shuoedu.com/]https://223.5.5.5/dns-query
 [/shuofangw.com/]https://223.5.5.5/dns-query
 [/shuoji1688.com/]https://223.5.5.5/dns-query
 [/shuojuchaxu.com/]https://223.5.5.5/dns-query
@@ -65122,6 +65274,7 @@
 [/shwhl.com/]https://223.5.5.5/dns-query
 [/shwilling.com/]https://223.5.5.5/dns-query
 [/shwkwai.com/]https://223.5.5.5/dns-query
+[/shwoody.com/]https://223.5.5.5/dns-query
 [/shwpbbs.com/]https://223.5.5.5/dns-query
 [/shws.org/]https://223.5.5.5/dns-query
 [/shwsg.net/]https://223.5.5.5/dns-query
@@ -65625,6 +65778,7 @@
 [/sjhy.net/]https://223.5.5.5/dns-query
 [/sjhykt.com/]https://223.5.5.5/dns-query
 [/sjizx.com/]https://223.5.5.5/dns-query
+[/sjjk.shop/]https://223.5.5.5/dns-query
 [/sjjob88.com/]https://223.5.5.5/dns-query
 [/sjjzm.com/]https://223.5.5.5/dns-query
 [/sjlbearing.com/]https://223.5.5.5/dns-query
@@ -65690,7 +65844,6 @@
 [/sjzbyzjb.com/]https://223.5.5.5/dns-query
 [/sjzcfjd.com/]https://223.5.5.5/dns-query
 [/sjzcmw.com/]https://223.5.5.5/dns-query
-[/sjzcsw.com/]https://223.5.5.5/dns-query
 [/sjzdongya.com/]https://223.5.5.5/dns-query
 [/sjzdt56.com/]https://223.5.5.5/dns-query
 [/sjzfeitai.com/]https://223.5.5.5/dns-query
@@ -65833,6 +65986,7 @@
 [/sleele.com/]https://223.5.5.5/dns-query
 [/sleepboy.com/]https://223.5.5.5/dns-query
 [/slegetank.com/]https://223.5.5.5/dns-query
+[/slengy.com/]https://223.5.5.5/dns-query
 [/slertness.com/]https://223.5.5.5/dns-query
 [/slfwq.com/]https://223.5.5.5/dns-query
 [/slicejobs.com/]https://223.5.5.5/dns-query
@@ -66157,6 +66311,7 @@
 [/sodexo-cn.com/]https://223.5.5.5/dns-query
 [/sodhef.com/]https://223.5.5.5/dns-query
 [/sodianwan.com/]https://223.5.5.5/dns-query
+[/sodiao.cc/]https://223.5.5.5/dns-query
 [/sodino.com/]https://223.5.5.5/dns-query
 [/sodion.net/]https://223.5.5.5/dns-query
 [/sodocloud.com/]https://223.5.5.5/dns-query
@@ -66373,6 +66528,7 @@
 [/soosmart.com/]https://223.5.5.5/dns-query
 [/sootmoor.com/]https://223.5.5.5/dns-query
 [/sootoo.com/]https://223.5.5.5/dns-query
+[/sootool.net/]https://223.5.5.5/dns-query
 [/sootuu.com/]https://223.5.5.5/dns-query
 [/soovalve.com/]https://223.5.5.5/dns-query
 [/sooxue.com/]https://223.5.5.5/dns-query
@@ -66606,7 +66762,6 @@
 [/spischolar.com/]https://223.5.5.5/dns-query
 [/spjxcn.com/]https://223.5.5.5/dns-query
 [/splaybow.com/]https://223.5.5.5/dns-query
-[/splayer.org/]https://223.5.5.5/dns-query
 [/splayer.work/]https://223.5.5.5/dns-query
 [/spldlkj.com/]https://223.5.5.5/dns-query
 [/splmcn.com/]https://223.5.5.5/dns-query
@@ -66816,6 +66971,7 @@
 [/ssrlzy.net/]https://223.5.5.5/dns-query
 [/ssscdn.com/]https://223.5.5.5/dns-query
 [/sssch.net/]https://223.5.5.5/dns-query
+[/ssslgs.com/]https://223.5.5.5/dns-query
 [/sssmro.com/]https://223.5.5.5/dns-query
 [/sssmy.com/]https://223.5.5.5/dns-query
 [/ssso.com/]https://223.5.5.5/dns-query
@@ -67027,6 +67183,7 @@
 [/stourweb.net/]https://223.5.5.5/dns-query
 [/stovol.club/]https://223.5.5.5/dns-query
 [/stoyard.com/]https://223.5.5.5/dns-query
+[/stpos.net/]https://223.5.5.5/dns-query
 [/str-mo.com/]https://223.5.5.5/dns-query
 [/straitchain.com/]https://223.5.5.5/dns-query
 [/stray-soul.com/]https://223.5.5.5/dns-query
@@ -67809,6 +67966,7 @@
 [/sygnew.com/]https://223.5.5.5/dns-query
 [/syh9961.com/]https://223.5.5.5/dns-query
 [/syhccs.com/]https://223.5.5.5/dns-query
+[/syhfxsh.com/]https://223.5.5.5/dns-query
 [/syhhidc.com/]https://223.5.5.5/dns-query
 [/syhhkj.com/]https://223.5.5.5/dns-query
 [/syhl.vip/]https://223.5.5.5/dns-query
@@ -68192,6 +68350,7 @@
 [/szluxon.com/]https://223.5.5.5/dns-query
 [/szlvbarcode.com/]https://223.5.5.5/dns-query
 [/szlwtech.com/]https://223.5.5.5/dns-query
+[/szlxl100.com/]https://223.5.5.5/dns-query
 [/szlyi.com/]https://223.5.5.5/dns-query
 [/szlzsd.com/]https://223.5.5.5/dns-query
 [/szmadigi.com/]https://223.5.5.5/dns-query
@@ -68508,6 +68667,7 @@
 [/taihe.com/]https://223.5.5.5/dns-query
 [/taihehospital.com/]https://223.5.5.5/dns-query
 [/taihemedia.com/]https://223.5.5.5/dns-query
+[/taihuawj.com/]https://223.5.5.5/dns-query
 [/taihuoniao.com/]https://223.5.5.5/dns-query
 [/taihuwang.com/]https://223.5.5.5/dns-query
 [/taihuyuan.com/]https://223.5.5.5/dns-query
@@ -68955,6 +69115,8 @@
 [/tchzt.com/]https://223.5.5.5/dns-query
 [/tciplay.com/]https://223.5.5.5/dns-query
 [/tcjx688.com/]https://223.5.5.5/dns-query
+[/tckjfast.com/]https://223.5.5.5/dns-query
+[/tckjhigh.com/]https://223.5.5.5/dns-query
 [/tcl-cctv.com/]https://223.5.5.5/dns-query
 [/tcl.com/]https://223.5.5.5/dns-query
 [/tclbusiness.com/]https://223.5.5.5/dns-query
@@ -68986,6 +69148,7 @@
 [/tcrcsc.com/]https://223.5.5.5/dns-query
 [/tcs-y.com/]https://223.5.5.5/dns-query
 [/tcsae.org/]https://223.5.5.5/dns-query
+[/tcsasac.com/]https://223.5.5.5/dns-query
 [/tcsdzz.com/]https://223.5.5.5/dns-query
 [/tcsnake.com/]https://223.5.5.5/dns-query
 [/tcspbj.com/]https://223.5.5.5/dns-query
@@ -69158,6 +69321,7 @@
 [/telongzn.com/]https://223.5.5.5/dns-query
 [/telu.net/]https://223.5.5.5/dns-query
 [/telunsu.net/]https://223.5.5.5/dns-query
+[/telunxiaosu.fun/]https://223.5.5.5/dns-query
 [/tem.pw/]https://223.5.5.5/dns-query
 [/temaiku.com/]https://223.5.5.5/dns-query
 [/temox.com/]https://223.5.5.5/dns-query
@@ -69242,6 +69406,7 @@
 [/tengzhuan.com/]https://223.5.5.5/dns-query
 [/tenhot.net/]https://223.5.5.5/dns-query
 [/teniuzhuan.cyou/]https://223.5.5.5/dns-query
+[/tenjia.cc/]https://223.5.5.5/dns-query
 [/tenjincn.com/]https://223.5.5.5/dns-query
 [/tenlonstudio.com/]https://223.5.5.5/dns-query
 [/tenmam.com/]https://223.5.5.5/dns-query
@@ -69360,6 +69525,7 @@
 [/tgect.com/]https://223.5.5.5/dns-query
 [/tgjh.com/]https://223.5.5.5/dns-query
 [/tgking.net/]https://223.5.5.5/dns-query
+[/tgldfm.com/]https://223.5.5.5/dns-query
 [/tgljw.com/]https://223.5.5.5/dns-query
 [/tglxh.com/]https://223.5.5.5/dns-query
 [/tgnet.com/]https://223.5.5.5/dns-query
@@ -69390,6 +69556,7 @@
 [/thatwind.com/]https://223.5.5.5/dns-query
 [/thcad.net/]https://223.5.5.5/dns-query
 [/thcantech.com/]https://223.5.5.5/dns-query
+[/thclouds.com/]https://223.5.5.5/dns-query
 [/thd99.com/]https://223.5.5.5/dns-query
 [/thdangzhun.com/]https://223.5.5.5/dns-query
 [/thdb.com/]https://223.5.5.5/dns-query
@@ -69610,6 +69777,7 @@
 [/tianlaikge.com/]https://223.5.5.5/dns-query
 [/tianlan.net/]https://223.5.5.5/dns-query
 [/tianli-blog.club/]https://223.5.5.5/dns-query
+[/tianlin001.com/]https://223.5.5.5/dns-query
 [/tianlingyang.com/]https://223.5.5.5/dns-query
 [/tianlongshop.com/]https://223.5.5.5/dns-query
 [/tianlungas.com/]https://223.5.5.5/dns-query
@@ -69799,6 +69967,7 @@
 [/tielujob.com/]https://223.5.5.5/dns-query
 [/tiepishihu.com/]https://223.5.5.5/dns-query
 [/tiequangame.com/]https://223.5.5.5/dns-query
+[/tieque.net/]https://223.5.5.5/dns-query
 [/tiesan.com/]https://223.5.5.5/dns-query
 [/tieshuwang.net/]https://223.5.5.5/dns-query
 [/tietie.la/]https://223.5.5.5/dns-query
@@ -69834,6 +70003,11 @@
 [/tijianka.cc/]https://223.5.5.5/dns-query
 [/tijianshangmen.com/]https://223.5.5.5/dns-query
 [/tijianzhuanjia.com/]https://223.5.5.5/dns-query
+[/tijox.cc/]https://223.5.5.5/dns-query
+[/tijox.com/]https://223.5.5.5/dns-query
+[/tijox.hk/]https://223.5.5.5/dns-query
+[/tijox.net/]https://223.5.5.5/dns-query
+[/tijox.org/]https://223.5.5.5/dns-query
 [/tikane.com/]https://223.5.5.5/dns-query
 [/tikersport.com/]https://223.5.5.5/dns-query
 [/tiko.ink/]https://223.5.5.5/dns-query
@@ -70062,6 +70236,7 @@
 [/tjzyfw.com/]https://223.5.5.5/dns-query
 [/tk-rays.com/]https://223.5.5.5/dns-query
 [/tk-xiong.com/]https://223.5.5.5/dns-query
+[/tk-zx.com/]https://223.5.5.5/dns-query
 [/tk.anythinktech.com/]https://223.5.5.5/dns-query
 [/tk163.com/]https://223.5.5.5/dns-query
 [/tk233.xyz/]https://223.5.5.5/dns-query
@@ -70096,6 +70271,7 @@
 [/tlfw.net/]https://223.5.5.5/dns-query
 [/tlfzkj.com/]https://223.5.5.5/dns-query
 [/tlhjjc.com/]https://223.5.5.5/dns-query
+[/tlhmhd.com/]https://223.5.5.5/dns-query
 [/tlightsky.com/]https://223.5.5.5/dns-query
 [/tlinx.com/]https://223.5.5.5/dns-query
 [/tliveapp.com/]https://223.5.5.5/dns-query
@@ -70289,6 +70465,7 @@
 [/tongchaba.com/]https://223.5.5.5/dns-query
 [/tongcheng.cc/]https://223.5.5.5/dns-query
 [/tongcheng360.com/]https://223.5.5.5/dns-query
+[/tongchengbx.com/]https://223.5.5.5/dns-query
 [/tongchengchaku.com/]https://223.5.5.5/dns-query
 [/tongchengkang.com/]https://223.5.5.5/dns-query
 [/tongchengqun.vip/]https://223.5.5.5/dns-query
@@ -70445,6 +70622,7 @@
 [/topku.com/]https://223.5.5.5/dns-query
 [/toplanit.com/]https://223.5.5.5/dns-query
 [/toplee.com/]https://223.5.5.5/dns-query
+[/toplevel.ink/]https://223.5.5.5/dns-query
 [/toploong.com/]https://223.5.5.5/dns-query
 [/topmba.mobi/]https://223.5.5.5/dns-query
 [/topnfactory.com/]https://223.5.5.5/dns-query
@@ -70828,6 +71006,7 @@
 [/trvok.com/]https://223.5.5.5/dns-query
 [/trwl.net/]https://223.5.5.5/dns-query
 [/tryfun.com/]https://223.5.5.5/dns-query
+[/tryine.com/]https://223.5.5.5/dns-query
 [/tryineapp.com/]https://223.5.5.5/dns-query
 [/trykan.com/]https://223.5.5.5/dns-query
 [/trylist.net/]https://223.5.5.5/dns-query
@@ -71200,6 +71379,7 @@
 [/tumuzhe.com/]https://223.5.5.5/dns-query
 [/tuna.wiki/]https://223.5.5.5/dns-query
 [/tunanhuashi.com/]https://223.5.5.5/dns-query
+[/tungee.com/]https://223.5.5.5/dns-query
 [/tungoil-world.com/]https://223.5.5.5/dns-query
 [/tungshungroup.com/]https://223.5.5.5/dns-query
 [/tungsten-alloy.com/]https://223.5.5.5/dns-query
@@ -71598,6 +71778,7 @@
 [/tzxingtang.com/]https://223.5.5.5/dns-query
 [/tzxwzx.com/]https://223.5.5.5/dns-query
 [/tzyun.com/]https://223.5.5.5/dns-query
+[/tzyyao.com/]https://223.5.5.5/dns-query
 [/tzyzdp.com/]https://223.5.5.5/dns-query
 [/tzzhkj.com/]https://223.5.5.5/dns-query
 [/tzzszb.com/]https://223.5.5.5/dns-query
@@ -71658,6 +71839,7 @@
 [/u9u8.com/]https://223.5.5.5/dns-query
 [/u9u9.com/]https://223.5.5.5/dns-query
 [/u9wan.com/]https://223.5.5.5/dns-query
+[/uaff7j.com/]https://223.5.5.5/dns-query
 [/uahh.site/]https://223.5.5.5/dns-query
 [/uancf.com/]https://223.5.5.5/dns-query
 [/uandi-wireless.com/]https://223.5.5.5/dns-query
@@ -71782,11 +71964,13 @@
 [/uduan.com/]https://223.5.5.5/dns-query
 [/udxd.com/]https://223.5.5.5/dns-query
 [/uebilling.com/]https://223.5.5.5/dns-query
+[/uebuilder.net/]https://223.5.5.5/dns-query
 [/uecook.com/]https://223.5.5.5/dns-query
 [/uedbox.com/]https://223.5.5.5/dns-query
 [/uedna.com/]https://223.5.5.5/dns-query
 [/uedsc.com/]https://223.5.5.5/dns-query
 [/ueeshop.com/]https://223.5.5.5/dns-query
+[/uehchina.com/]https://223.5.5.5/dns-query
 [/uehtml.com/]https://223.5.5.5/dns-query
 [/ueibo.com/]https://223.5.5.5/dns-query
 [/uelike.com/]https://223.5.5.5/dns-query
@@ -71913,6 +72097,7 @@
 [/ujing.online/]https://223.5.5.5/dns-query
 [/ujipin.com/]https://223.5.5.5/dns-query
 [/ujiuye.com/]https://223.5.5.5/dns-query
+[/ujrq1m.com/]https://223.5.5.5/dns-query
 [/uju365.com/]https://223.5.5.5/dns-query
 [/ujxs.com/]https://223.5.5.5/dns-query
 [/uk-edu.com/]https://223.5.5.5/dns-query
@@ -72092,7 +72277,6 @@
 [/uniwaf.com/]https://223.5.5.5/dns-query
 [/unixhot.com/]https://223.5.5.5/dns-query
 [/unixidc.com/]https://223.5.5.5/dns-query
-[/unizai.com/]https://223.5.5.5/dns-query
 [/unjmz.com/]https://223.5.5.5/dns-query
 [/unjs.com/]https://223.5.5.5/dns-query
 [/unlimax.com/]https://223.5.5.5/dns-query
@@ -72162,6 +72346,7 @@
 [/upengyou.net/]https://223.5.5.5/dns-query
 [/upesn.com/]https://223.5.5.5/dns-query
 [/upetmart.com/]https://223.5.5.5/dns-query
+[/uphicoo.com/]https://223.5.5.5/dns-query
 [/upho2015.com/]https://223.5.5.5/dns-query
 [/uphong.com/]https://223.5.5.5/dns-query
 [/upimgku.com/]https://223.5.5.5/dns-query
@@ -73082,6 +73267,7 @@
 [/vndej.com/]https://223.5.5.5/dns-query
 [/vnet.mobi/]https://223.5.5.5/dns-query
 [/vnnox.com/]https://223.5.5.5/dns-query
+[/vnpy.com/]https://223.5.5.5/dns-query
 [/vntfj.com/]https://223.5.5.5/dns-query
 [/vnymvnu.com/]https://223.5.5.5/dns-query
 [/vnzmi.com/]https://223.5.5.5/dns-query
@@ -73175,6 +73361,7 @@
 [/vpimg3.com/]https://223.5.5.5/dns-query
 [/vpimg4.com/]https://223.5.5.5/dns-query
 [/vplayer.net/]https://223.5.5.5/dns-query
+[/vpmagic.com/]https://223.5.5.5/dns-query
 [/vpn39.com/]https://223.5.5.5/dns-query
 [/vpnsoft.net/]https://223.5.5.5/dns-query
 [/vpquc9rn.com/]https://223.5.5.5/dns-query
@@ -73186,6 +73373,7 @@
 [/vpsaa.net/]https://223.5.5.5/dns-query
 [/vpscang.com/]https://223.5.5.5/dns-query
 [/vpsce.com/]https://223.5.5.5/dns-query
+[/vpser.com/]https://223.5.5.5/dns-query
 [/vpser.net/]https://223.5.5.5/dns-query
 [/vpshu.com/]https://223.5.5.5/dns-query
 [/vpsjxw.com/]https://223.5.5.5/dns-query
@@ -73288,6 +73476,7 @@
 [/vue5.com/]https://223.5.5.5/dns-query
 [/vue88.com/]https://223.5.5.5/dns-query
 [/vuejs.press/]https://223.5.5.5/dns-query
+[/vuepush.com/]https://223.5.5.5/dns-query
 [/vuevideo.net/]https://223.5.5.5/dns-query
 [/vukfnqr.com/]https://223.5.5.5/dns-query
 [/vulbox.com/]https://223.5.5.5/dns-query
@@ -73600,7 +73789,6 @@
 [/wang0214.com/]https://223.5.5.5/dns-query
 [/wang1314.com/]https://223.5.5.5/dns-query
 [/wang1314.net/]https://223.5.5.5/dns-query
-[/wanga.me/]https://223.5.5.5/dns-query
 [/wangaiche.com/]https://223.5.5.5/dns-query
 [/wangamela.com/]https://223.5.5.5/dns-query
 [/wangan.com/]https://223.5.5.5/dns-query
@@ -74131,6 +74319,7 @@
 [/web3.xin/]https://223.5.5.5/dns-query
 [/web3389.com/]https://223.5.5.5/dns-query
 [/web360.pw/]https://223.5.5.5/dns-query
+[/web3caff.com/]https://223.5.5.5/dns-query
 [/web3ling.com/]https://223.5.5.5/dns-query
 [/web89.net/]https://223.5.5.5/dns-query
 [/web930.com/]https://223.5.5.5/dns-query
@@ -74241,6 +74430,7 @@
 [/wegene.com/]https://223.5.5.5/dns-query
 [/weharvest.com/]https://223.5.5.5/dns-query
 [/wehefei.com/]https://223.5.5.5/dns-query
+[/wehelpwin.com/]https://223.5.5.5/dns-query
 [/weherepost.com/]https://223.5.5.5/dns-query
 [/wei-ben.com/]https://223.5.5.5/dns-query
 [/wei-ze.com/]https://223.5.5.5/dns-query
@@ -74676,7 +74866,6 @@
 [/wenlvnews.com/]https://223.5.5.5/dns-query
 [/wenlvpai.com/]https://223.5.5.5/dns-query
 [/wenmeng.com/]https://223.5.5.5/dns-query
-[/wenmi.com/]https://223.5.5.5/dns-query
 [/wenneart.com/]https://223.5.5.5/dns-query
 [/wenpie.com/]https://223.5.5.5/dns-query
 [/wenrouge.com/]https://223.5.5.5/dns-query
@@ -74705,7 +74894,6 @@
 [/wenwenren.com/]https://223.5.5.5/dns-query
 [/wenwo.com/]https://223.5.5.5/dns-query
 [/wenwu8.com/]https://223.5.5.5/dns-query
-[/wenxi777.com/]https://223.5.5.5/dns-query
 [/wenxiang.org/]https://223.5.5.5/dns-query
 [/wenxiaoyou.com/]https://223.5.5.5/dns-query
 [/wenxiaozhan.com/]https://223.5.5.5/dns-query
@@ -74755,6 +74943,7 @@
 [/wesdom.me/]https://223.5.5.5/dns-query
 [/weshaketv.com/]https://223.5.5.5/dns-query
 [/weshequ.com/]https://223.5.5.5/dns-query
+[/weshine.im/]https://223.5.5.5/dns-query
 [/weshineapp.com/]https://223.5.5.5/dns-query
 [/wesiedu.com/]https://223.5.5.5/dns-query
 [/west-motion.com/]https://223.5.5.5/dns-query
@@ -74794,6 +74983,7 @@
 [/weworkcloudesk.com/]https://223.5.5.5/dns-query
 [/wewuhu.com/]https://223.5.5.5/dns-query
 [/wex5.com/]https://223.5.5.5/dns-query
+[/wexcdn.com/]https://223.5.5.5/dns-query
 [/wexiaocheng.com/]https://223.5.5.5/dns-query
 [/wexin.com/]https://223.5.5.5/dns-query
 [/wey.com/]https://223.5.5.5/dns-query
@@ -75043,7 +75233,6 @@
 [/whljyl.com/]https://223.5.5.5/dns-query
 [/whlkwy.com/]https://223.5.5.5/dns-query
 [/whlrhd.com/]https://223.5.5.5/dns-query
-[/whlsty.com/]https://223.5.5.5/dns-query
 [/whly56.com/]https://223.5.5.5/dns-query
 [/whlynk.com/]https://223.5.5.5/dns-query
 [/whmama.com/]https://223.5.5.5/dns-query
@@ -75092,6 +75281,7 @@
 [/whrtmpay.com/]https://223.5.5.5/dns-query
 [/whsdsyy.com/]https://223.5.5.5/dns-query
 [/whsir.com/]https://223.5.5.5/dns-query
+[/whsjfs.com/]https://223.5.5.5/dns-query
 [/whskq.com/]https://223.5.5.5/dns-query
 [/whsladz.com/]https://223.5.5.5/dns-query
 [/whsladz.net/]https://223.5.5.5/dns-query
@@ -75256,6 +75446,7 @@
 [/win1032.com/]https://223.5.5.5/dns-query
 [/win1064.com/]https://223.5.5.5/dns-query
 [/win10cjb.com/]https://223.5.5.5/dns-query
+[/win10d.com/]https://223.5.5.5/dns-query
 [/win10gw.com/]https://223.5.5.5/dns-query
 [/win10net.com/]https://223.5.5.5/dns-query
 [/win10set.com/]https://223.5.5.5/dns-query
@@ -76051,6 +76242,7 @@
 [/wscloudcdn.org/]https://223.5.5.5/dns-query
 [/wscloudsec.com/]https://223.5.5.5/dns-query
 [/wsclsb.net/]https://223.5.5.5/dns-query
+[/wscn.net/]https://223.5.5.5/dns-query
 [/wscoder.com/]https://223.5.5.5/dns-query
 [/wscont1.apps.microsoft.com/]https://223.5.5.5/dns-query
 [/wscont2.apps.microsoft.com/]https://223.5.5.5/dns-query
@@ -76265,6 +76457,7 @@
 [/wuhenge.com/]https://223.5.5.5/dns-query
 [/wuhongsheng.com/]https://223.5.5.5/dns-query
 [/wuhouhaodian.com/]https://223.5.5.5/dns-query
+[/wuht.net/]https://223.5.5.5/dns-query
 [/wuhu.cc/]https://223.5.5.5/dns-query
 [/wuhuashe.com/]https://223.5.5.5/dns-query
 [/wuhubtv.com/]https://223.5.5.5/dns-query
@@ -76272,6 +76465,7 @@
 [/wuhukj.fun/]https://223.5.5.5/dns-query
 [/wuhusanlian.com/]https://223.5.5.5/dns-query
 [/wui5.com/]https://223.5.5.5/dns-query
+[/wuji-edu.com/]https://223.5.5.5/dns-query
 [/wuji.com/]https://223.5.5.5/dns-query
 [/wujianghongyi.com/]https://223.5.5.5/dns-query
 [/wujiangtong.com/]https://223.5.5.5/dns-query
@@ -76437,6 +76631,7 @@
 [/wuyukang.com/]https://223.5.5.5/dns-query
 [/wuyumin.com/]https://223.5.5.5/dns-query
 [/wuz7.com/]https://223.5.5.5/dns-query
+[/wuzao.com/]https://223.5.5.5/dns-query
 [/wuzebo.com/]https://223.5.5.5/dns-query
 [/wuzhaiba.com/]https://223.5.5.5/dns-query
 [/wuzhenfestival.com/]https://223.5.5.5/dns-query
@@ -77471,6 +77666,7 @@
 [/xiami.com/]https://223.5.5.5/dns-query
 [/xiami.net/]https://223.5.5.5/dns-query
 [/xiamo.cc/]https://223.5.5.5/dns-query
+[/xiamo.fun/]https://223.5.5.5/dns-query
 [/xiamoyun.com/]https://223.5.5.5/dns-query
 [/xiamp4.com/]https://223.5.5.5/dns-query
 [/xian-tourism.com/]https://223.5.5.5/dns-query
@@ -77745,6 +77941,7 @@
 [/xiaohuohu.com/]https://223.5.5.5/dns-query
 [/xiaohus.com/]https://223.5.5.5/dns-query
 [/xiaohuwl.com/]https://223.5.5.5/dns-query
+[/xiaoi.com/]https://223.5.5.5/dns-query
 [/xiaoi.me/]https://223.5.5.5/dns-query
 [/xiaoice.com/]https://223.5.5.5/dns-query
 [/xiaoj.com/]https://223.5.5.5/dns-query
@@ -77870,6 +78067,7 @@
 [/xiaoqinre.com/]https://223.5.5.5/dns-query
 [/xiaoqiqiao.com/]https://223.5.5.5/dns-query
 [/xiaoqiweb.com/]https://223.5.5.5/dns-query
+[/xiaoquba.com/]https://223.5.5.5/dns-query
 [/xiaoqueshe.com/]https://223.5.5.5/dns-query
 [/xiaoqugang.com/]https://223.5.5.5/dns-query
 [/xiaoquyijia.com/]https://223.5.5.5/dns-query
@@ -78003,6 +78201,7 @@
 [/xiaoz.me/]https://223.5.5.5/dns-query
 [/xiaozhan.cc/]https://223.5.5.5/dns-query
 [/xiaozhang365.com/]https://223.5.5.5/dns-query
+[/xiaozhao365.com/]https://223.5.5.5/dns-query
 [/xiaozhenpaotui.com/]https://223.5.5.5/dns-query
 [/xiaozhibaoxian.com/]https://223.5.5.5/dns-query
 [/xiaozhibo.com/]https://223.5.5.5/dns-query
@@ -78368,6 +78567,7 @@
 [/xinguida.com/]https://223.5.5.5/dns-query
 [/xingumin.net/]https://223.5.5.5/dns-query
 [/xingvps.com/]https://223.5.5.5/dns-query
+[/xingwajiang.com/]https://223.5.5.5/dns-query
 [/xingxing.com/]https://223.5.5.5/dns-query
 [/xingxingbao.com/]https://223.5.5.5/dns-query
 [/xingxingjizhang.com/]https://223.5.5.5/dns-query
@@ -78950,6 +79150,7 @@
 [/xjzhsh.com/]https://223.5.5.5/dns-query
 [/xjzlyy.com/]https://223.5.5.5/dns-query
 [/xk8090.com/]https://223.5.5.5/dns-query
+[/xk857.com/]https://223.5.5.5/dns-query
 [/xk89.com/]https://223.5.5.5/dns-query
 [/xk9l.com/]https://223.5.5.5/dns-query
 [/xkaxka.com/]https://223.5.5.5/dns-query
@@ -79385,6 +79586,7 @@
 [/xntt.com/]https://223.5.5.5/dns-query
 [/xntv.tv/]https://223.5.5.5/dns-query
 [/xnw.com/]https://223.5.5.5/dns-query
+[/xnw19.vip/]https://223.5.5.5/dns-query
 [/xnwan.com/]https://223.5.5.5/dns-query
 [/xnwatch.com/]https://223.5.5.5/dns-query
 [/xnwmw.com/]https://223.5.5.5/dns-query
@@ -79845,6 +80047,7 @@
 [/xuheen.com/]https://223.5.5.5/dns-query
 [/xuhehuan.com/]https://223.5.5.5/dns-query
 [/xuhongjx.com/]https://223.5.5.5/dns-query
+[/xuhuihs.com/]https://223.5.5.5/dns-query
 [/xujianhua.com/]https://223.5.5.5/dns-query
 [/xujingkj.com/]https://223.5.5.5/dns-query
 [/xujinhuancaishui.com/]https://223.5.5.5/dns-query
@@ -80087,6 +80290,7 @@
 [/xxnmjx.com/]https://223.5.5.5/dns-query
 [/xxoojoke.com/]https://223.5.5.5/dns-query
 [/xxorg.com/]https://223.5.5.5/dns-query
+[/xxpay.vip/]https://223.5.5.5/dns-query
 [/xxpie.com/]https://223.5.5.5/dns-query
 [/xxpkg.com/]https://223.5.5.5/dns-query
 [/xxptcs.com/]https://223.5.5.5/dns-query
@@ -80117,6 +80321,7 @@
 [/xxwxf.com/]https://223.5.5.5/dns-query
 [/xxxbiquge.com/]https://223.5.5.5/dns-query
 [/xxxcsf.com/]https://223.5.5.5/dns-query
+[/xxxedu.net/]https://223.5.5.5/dns-query
 [/xxxfeng.com/]https://223.5.5.5/dns-query
 [/xxxhhh.com/]https://223.5.5.5/dns-query
 [/xxxmeng.com/]https://223.5.5.5/dns-query
@@ -80283,6 +80488,7 @@
 [/xyxy.com/]https://223.5.5.5/dns-query
 [/xyxy.net/]https://223.5.5.5/dns-query
 [/xyxy01.com/]https://223.5.5.5/dns-query
+[/xyxyzz.com/]https://223.5.5.5/dns-query
 [/xyxza.com/]https://223.5.5.5/dns-query
 [/xyy001.com/]https://223.5.5.5/dns-query
 [/xyyb.net/]https://223.5.5.5/dns-query
@@ -80322,6 +80528,7 @@
 [/xz7.com/]https://223.5.5.5/dns-query
 [/xz8.com/]https://223.5.5.5/dns-query
 [/xzapi56.com/]https://223.5.5.5/dns-query
+[/xzb360.com/]https://223.5.5.5/dns-query
 [/xzbahd.com/]https://223.5.5.5/dns-query
 [/xzbzq.com/]https://223.5.5.5/dns-query
 [/xzcblog.com/]https://223.5.5.5/dns-query
@@ -80360,6 +80567,7 @@
 [/xzstatic.com/]https://223.5.5.5/dns-query
 [/xzsthj.com/]https://223.5.5.5/dns-query
 [/xztdesign.com/]https://223.5.5.5/dns-query
+[/xztvip.com/]https://223.5.5.5/dns-query
 [/xztzb.com/]https://223.5.5.5/dns-query
 [/xzvhyx.com/]https://223.5.5.5/dns-query
 [/xzw.com/]https://223.5.5.5/dns-query
@@ -80384,7 +80592,6 @@
 [/y5663.com/]https://223.5.5.5/dns-query
 [/y5kfpt.com/]https://223.5.5.5/dns-query
 [/y77.cc/]https://223.5.5.5/dns-query
-[/y7q8.com/]https://223.5.5.5/dns-query
 [/y80s.com/]https://223.5.5.5/dns-query
 [/y8comgames.com/]https://223.5.5.5/dns-query
 [/y8cyx6fvyxk3hs.com/]https://223.5.5.5/dns-query
@@ -80499,11 +80706,9 @@
 [/yangjie.li/]https://223.5.5.5/dns-query
 [/yangjisen.com/]https://223.5.5.5/dns-query
 [/yangk6668.com/]https://223.5.5.5/dns-query
-[/yangkatie.com/]https://223.5.5.5/dns-query
 [/yangkeduo.com/]https://223.5.5.5/dns-query
 [/yangki.net/]https://223.5.5.5/dns-query
 [/yangkun.net/]https://223.5.5.5/dns-query
-[/yanglajiao.com/]https://223.5.5.5/dns-query
 [/yanglaocn.com/]https://223.5.5.5/dns-query
 [/yanglaofuwu365.com/]https://223.5.5.5/dns-query
 [/yanglaotiandi.com/]https://223.5.5.5/dns-query
@@ -80659,6 +80864,7 @@
 [/yaojigames.com/]https://223.5.5.5/dns-query
 [/yaojingtang.com/]https://223.5.5.5/dns-query
 [/yaokaihui.com/]https://223.5.5.5/dns-query
+[/yaokeke.com/]https://223.5.5.5/dns-query
 [/yaoky.com/]https://223.5.5.5/dns-query
 [/yaolaifen.com/]https://223.5.5.5/dns-query
 [/yaolaivip.com/]https://223.5.5.5/dns-query
@@ -80767,6 +80973,7 @@
 [/ybcnjg.com/]https://223.5.5.5/dns-query
 [/ybdbz.com/]https://223.5.5.5/dns-query
 [/ybe.net/]https://223.5.5.5/dns-query
+[/ybgz.com/]https://223.5.5.5/dns-query
 [/ybhdmob.com/]https://223.5.5.5/dns-query
 [/ybi.net/]https://223.5.5.5/dns-query
 [/ybin.cc/]https://223.5.5.5/dns-query
@@ -81184,6 +81391,7 @@
 [/ygtcpa.com/]https://223.5.5.5/dns-query
 [/ygwenxue.com/]https://223.5.5.5/dns-query
 [/ygwh.cc/]https://223.5.5.5/dns-query
+[/ygwood.com/]https://223.5.5.5/dns-query
 [/ygx8888.com/]https://223.5.5.5/dns-query
 [/ygym.org/]https://223.5.5.5/dns-query
 [/ygzt.net/]https://223.5.5.5/dns-query
@@ -81402,6 +81610,9 @@
 [/yifu.net/]https://223.5.5.5/dns-query
 [/yifubao.com/]https://223.5.5.5/dns-query
 [/yifucj.com/]https://223.5.5.5/dns-query
+[/yifum.com/]https://223.5.5.5/dns-query
+[/yifum.hk/]https://223.5.5.5/dns-query
+[/yifum.net/]https://223.5.5.5/dns-query
 [/yifutu.com/]https://223.5.5.5/dns-query
 [/yigao.com/]https://223.5.5.5/dns-query
 [/yigaosu.com/]https://223.5.5.5/dns-query
@@ -81730,6 +81941,7 @@
 [/yioho.com/]https://223.5.5.5/dns-query
 [/yioulai.com/]https://223.5.5.5/dns-query
 [/yiovo.com/]https://223.5.5.5/dns-query
+[/yipai360.com/]https://223.5.5.5/dns-query
 [/yipaiming.com/]https://223.5.5.5/dns-query
 [/yipaogan.com/]https://223.5.5.5/dns-query
 [/yiparts.com/]https://223.5.5.5/dns-query
@@ -82411,6 +82623,7 @@
 [/yocajr.com/]https://223.5.5.5/dns-query
 [/yocan.net/]https://223.5.5.5/dns-query
 [/yocdev.com/]https://223.5.5.5/dns-query
+[/yocng.com/]https://223.5.5.5/dns-query
 [/yocopi.com/]https://223.5.5.5/dns-query
 [/yocyxc.com/]https://223.5.5.5/dns-query
 [/yodak.net/]https://223.5.5.5/dns-query
@@ -82605,6 +82818,7 @@
 [/youdawangluo.com/]https://223.5.5.5/dns-query
 [/youdemai.com/]https://223.5.5.5/dns-query
 [/youdiancms.com/]https://223.5.5.5/dns-query
+[/youdianzhishi.com/]https://223.5.5.5/dns-query
 [/youdingsuit.com/]https://223.5.5.5/dns-query
 [/youdingte.com/]https://223.5.5.5/dns-query
 [/youdubook.com/]https://223.5.5.5/dns-query
@@ -82648,6 +82862,7 @@
 [/youhuashu.com/]https://223.5.5.5/dns-query
 [/youhugmedia.com/]https://223.5.5.5/dns-query
 [/youhundao.com/]https://223.5.5.5/dns-query
+[/youhuohao.com/]https://223.5.5.5/dns-query
 [/youhutong.com/]https://223.5.5.5/dns-query
 [/youideal.net/]https://223.5.5.5/dns-query
 [/youinsh.com/]https://223.5.5.5/dns-query
@@ -82769,6 +82984,7 @@
 [/youruitech.com/]https://223.5.5.5/dns-query
 [/yousc.com/]https://223.5.5.5/dns-query
 [/youscm.com/]https://223.5.5.5/dns-query
+[/yousengshe.com/]https://223.5.5.5/dns-query
 [/yousenjiaoyu.com/]https://223.5.5.5/dns-query
 [/youser.cc/]https://223.5.5.5/dns-query
 [/youshang.com/]https://223.5.5.5/dns-query
@@ -83023,7 +83239,6 @@
 [/yqk8ku.com/]https://223.5.5.5/dns-query
 [/yqkddm.com/]https://223.5.5.5/dns-query
 [/yqkk.link/]https://223.5.5.5/dns-query
-[/yqkqw.com/]https://223.5.5.5/dns-query
 [/yqmb001.com/]https://223.5.5.5/dns-query
 [/yqmh.com/]https://223.5.5.5/dns-query
 [/yqms.net/]https://223.5.5.5/dns-query
@@ -83264,6 +83479,7 @@
 [/yuanbaokc.com/]https://223.5.5.5/dns-query
 [/yuanbaotaoche.com/]https://223.5.5.5/dns-query
 [/yuanbei.biz/]https://223.5.5.5/dns-query
+[/yuanben.io/]https://223.5.5.5/dns-query
 [/yuanbin.me/]https://223.5.5.5/dns-query
 [/yuancangipr.com/]https://223.5.5.5/dns-query
 [/yuancdn.com/]https://223.5.5.5/dns-query
@@ -83508,6 +83724,7 @@
 [/yuhou.com/]https://223.5.5.5/dns-query
 [/yuhougame.com/]https://223.5.5.5/dns-query
 [/yuhuagu.com/]https://223.5.5.5/dns-query
+[/yuhuanghuagong.com/]https://223.5.5.5/dns-query
 [/yuhuijob.com/]https://223.5.5.5/dns-query
 [/yuhx.com/]https://223.5.5.5/dns-query
 [/yuiapi.com/]https://223.5.5.5/dns-query
@@ -83905,6 +84122,7 @@
 [/yunzongnet.com/]https://223.5.5.5/dns-query
 [/yunzujia.com/]https://223.5.5.5/dns-query
 [/yunzz.net/]https://223.5.5.5/dns-query
+[/yunzzz.com/]https://223.5.5.5/dns-query
 [/yupao.com/]https://223.5.5.5/dns-query
 [/yupaowang.com/]https://223.5.5.5/dns-query
 [/yupinny.com/]https://223.5.5.5/dns-query
@@ -84198,6 +84416,7 @@
 [/yycoin.com/]https://223.5.5.5/dns-query
 [/yycqc.com/]https://223.5.5.5/dns-query
 [/yycqfw.com/]https://223.5.5.5/dns-query
+[/yyczxt.com/]https://223.5.5.5/dns-query
 [/yydbzz.com/]https://223.5.5.5/dns-query
 [/yydcs.com/]https://223.5.5.5/dns-query
 [/yyddss.vip/]https://223.5.5.5/dns-query
@@ -84288,6 +84507,7 @@
 [/yyyxbl.com/]https://223.5.5.5/dns-query
 [/yyyy.games/]https://223.5.5.5/dns-query
 [/yyyyy.run/]https://223.5.5.5/dns-query
+[/yyzdjd.com/]https://223.5.5.5/dns-query
 [/yyzdm.com/]https://223.5.5.5/dns-query
 [/yyzf.com/]https://223.5.5.5/dns-query
 [/yyzf.vip/]https://223.5.5.5/dns-query
@@ -84725,6 +84945,7 @@
 [/zdhnayr.com/]https://223.5.5.5/dns-query
 [/zdhyibiao.com/]https://223.5.5.5/dns-query
 [/zdic.net/]https://223.5.5.5/dns-query
+[/zdjt.com/]https://223.5.5.5/dns-query
 [/zdkqyy.com/]https://223.5.5.5/dns-query
 [/zdlife.com/]https://223.5.5.5/dns-query
 [/zdlink.com/]https://223.5.5.5/dns-query
@@ -85195,6 +85416,7 @@
 [/zhanchily.com/]https://223.5.5.5/dns-query
 [/zhandaren.com/]https://223.5.5.5/dns-query
 [/zhandodo.com/]https://223.5.5.5/dns-query
+[/zhang-chu.com/]https://223.5.5.5/dns-query
 [/zhang365.com/]https://223.5.5.5/dns-query
 [/zhangbj.com/]https://223.5.5.5/dns-query
 [/zhangbo.org/]https://223.5.5.5/dns-query
@@ -85504,7 +85726,6 @@
 [/zhengyaing.win/]https://223.5.5.5/dns-query
 [/zhengyee.com/]https://223.5.5.5/dns-query
 [/zhengyexing.com/]https://223.5.5.5/dns-query
-[/zhengyifeng.com/]https://223.5.5.5/dns-query
 [/zhengyounet.com/]https://223.5.5.5/dns-query
 [/zhengyouyoule.com/]https://223.5.5.5/dns-query
 [/zhengyuanfu.com/]https://223.5.5.5/dns-query
@@ -85627,6 +85848,7 @@
 [/zhidianlife.com/]https://223.5.5.5/dns-query
 [/zhidieyun.com/]https://223.5.5.5/dns-query
 [/zhidtech.com/]https://223.5.5.5/dns-query
+[/zhiduopc.com/]https://223.5.5.5/dns-query
 [/zhidx.com/]https://223.5.5.5/dns-query
 [/zhienkeji.com/]https://223.5.5.5/dns-query
 [/zhierjie.com/]https://223.5.5.5/dns-query
@@ -85642,6 +85864,7 @@
 [/zhifujie.com/]https://223.5.5.5/dns-query
 [/zhifuqz.com/]https://223.5.5.5/dns-query
 [/zhifutui.com/]https://223.5.5.5/dns-query
+[/zhifux.com/]https://223.5.5.5/dns-query
 [/zhifuzi.com/]https://223.5.5.5/dns-query
 [/zhigongfu.com/]https://223.5.5.5/dns-query
 [/zhigou.com/]https://223.5.5.5/dns-query
@@ -86021,6 +86244,7 @@
 [/zhongruihuacheng.com/]https://223.5.5.5/dns-query
 [/zhongruitech.com/]https://223.5.5.5/dns-query
 [/zhongsen.co/]https://223.5.5.5/dns-query
+[/zhongsenmenye.com/]https://223.5.5.5/dns-query
 [/zhongshanchengtai.com/]https://223.5.5.5/dns-query
 [/zhongshang114.com/]https://223.5.5.5/dns-query
 [/zhongshanpark.com/]https://223.5.5.5/dns-query
@@ -86031,7 +86255,6 @@
 [/zhongshengxinyun.com/]https://223.5.5.5/dns-query
 [/zhongshucan.com/]https://223.5.5.5/dns-query
 [/zhongshuopg.com/]https://223.5.5.5/dns-query
-[/zhongshutang.net/]https://223.5.5.5/dns-query
 [/zhongso.com/]https://223.5.5.5/dns-query
 [/zhongsou.com/]https://223.5.5.5/dns-query
 [/zhongsou.net/]https://223.5.5.5/dns-query
@@ -86763,6 +86986,7 @@
 [/zjmct.com/]https://223.5.5.5/dns-query
 [/zjmi-mall.com/]https://223.5.5.5/dns-query
 [/zjminghong.com/]https://223.5.5.5/dns-query
+[/zjmingzhen.com/]https://223.5.5.5/dns-query
 [/zjmobile.com/]https://223.5.5.5/dns-query
 [/zjmoney.com/]https://223.5.5.5/dns-query
 [/zjmrhpt.com/]https://223.5.5.5/dns-query
@@ -86825,6 +87049,7 @@
 [/zjun.info/]https://223.5.5.5/dns-query
 [/zjuqsc.com/]https://223.5.5.5/dns-query
 [/zjut.cc/]https://223.5.5.5/dns-query
+[/zjvending.com/]https://223.5.5.5/dns-query
 [/zjwater.com/]https://223.5.5.5/dns-query
 [/zjwc168.com/]https://223.5.5.5/dns-query
 [/zjwcqp.com/]https://223.5.5.5/dns-query
@@ -86905,6 +87130,7 @@
 [/zkmeiling.com/]https://223.5.5.5/dns-query
 [/zkmob.net/]https://223.5.5.5/dns-query
 [/zknju.com/]https://223.5.5.5/dns-query
+[/zknmattress.com/]https://223.5.5.5/dns-query
 [/zkoffcn.com/]https://223.5.5.5/dns-query
 [/zkpeace.com/]https://223.5.5.5/dns-query
 [/zkpk.org/]https://223.5.5.5/dns-query
@@ -87118,6 +87344,7 @@
 [/zobmxcfw.com/]https://223.5.5.5/dns-query
 [/zocai.com/]https://223.5.5.5/dns-query
 [/zocolor.com/]https://223.5.5.5/dns-query
+[/zocoxx.com/]https://223.5.5.5/dns-query
 [/zoe360.com/]https://223.5.5.5/dns-query
 [/zoebon.com/]https://223.5.5.5/dns-query
 [/zoezt.com/]https://223.5.5.5/dns-query
@@ -87341,6 +87568,7 @@
 [/zsd.name/]https://223.5.5.5/dns-query
 [/zsdianlan.com/]https://223.5.5.5/dns-query
 [/zsdlw.com/]https://223.5.5.5/dns-query
+[/zsdown.com/]https://223.5.5.5/dns-query
 [/zsemall.com/]https://223.5.5.5/dns-query
 [/zseoo.com/]https://223.5.5.5/dns-query
 [/zsezt.com/]https://223.5.5.5/dns-query
@@ -87362,6 +87590,7 @@
 [/zshszy.com/]https://223.5.5.5/dns-query
 [/zshtys888.com/]https://223.5.5.5/dns-query
 [/zshuoshao.online/]https://223.5.5.5/dns-query
+[/zshuoshao.tech/]https://223.5.5.5/dns-query
 [/zsia.org/]https://223.5.5.5/dns-query
 [/zsihuo.com/]https://223.5.5.5/dns-query
 [/zsincer.com/]https://223.5.5.5/dns-query
@@ -87509,6 +87738,7 @@
 [/zuchang1688.com/]https://223.5.5.5/dns-query
 [/zuche.com/]https://223.5.5.5/dns-query
 [/zuchecdn.com/]https://223.5.5.5/dns-query
+[/zuchuan.cc/]https://223.5.5.5/dns-query
 [/zucp.net/]https://223.5.5.5/dns-query
 [/zudequ.com/]https://223.5.5.5/dns-query
 [/zudong.com/]https://223.5.5.5/dns-query
@@ -87735,6 +87965,7 @@
 [/zxbzr.com/]https://223.5.5.5/dns-query
 [/zxcmk.com/]https://223.5.5.5/dns-query
 [/zxcoder.com/]https://223.5.5.5/dns-query
+[/zxcvqqw.com/]https://223.5.5.5/dns-query
 [/zxd.com/]https://223.5.5.5/dns-query
 [/zxd666.com/]https://223.5.5.5/dns-query
 [/zxdb999.com/]https://223.5.5.5/dns-query
@@ -87922,6 +88153,7 @@
 [/zywjw.com/]https://223.5.5.5/dns-query
 [/zywtc.com/]https://223.5.5.5/dns-query
 [/zywvvd.com/]https://223.5.5.5/dns-query
+[/zywxgames.com/]https://223.5.5.5/dns-query
 [/zywxpress.com/]https://223.5.5.5/dns-query
 [/zyxr.com/]https://223.5.5.5/dns-query
 [/zyxuan.org/]https://223.5.5.5/dns-query
